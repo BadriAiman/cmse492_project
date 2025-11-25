@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.env
+data/raw/
+.DS_Store
+
+
+
+# large data
+notebooks/exploratory/*.csv
+electricity_cleaned.csv
+metadata.csv
