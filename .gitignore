@@ -11,3 +11,4 @@ data/raw/
 notebooks/exploratory/*.csv
 electricity_cleaned.csv
 metadata.csv
+notebooks/data/processed/
