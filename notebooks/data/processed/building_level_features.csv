@@ -1,756 +1,756 @@
 building_id,mean_electricity,building_age,sqft,primaryspaceusage
-Bear_assembly_Angel,494.33639636993416,91.0,238065.0,Entertainment/public assembly
-Bear_assembly_Beatrice,42.9620556983719,66.0,30160.0,Entertainment/public assembly
-Bear_assembly_Danial,160.6557286124559,8.0,82670.0,Entertainment/public assembly
-Bear_assembly_Diana,0.8568836038748526,29.0,1305.0,Entertainment/public assembly
-Bear_assembly_Genia,261.0890542326063,101.0,261091.0,Entertainment/public assembly
-Bear_assembly_Harry,17.703158165587258,92.0,59326.0,Entertainment/public assembly
-Bear_assembly_Jose,257.14087280205655,58.0,36180.0,Entertainment/public assembly
-Bear_assembly_Roxy,15.917531180779374,121.0,11910.0,Entertainment/public assembly
-Bear_assembly_Ruby,69.33275551873858,97.0,124197.0,Entertainment/public assembly
-Bear_education_Alfredo,0.18113274442538593,115.0,6564.0,Education
-Bear_education_Alvaro,419.54197717521885,30.0,109588.0,Education
-Bear_education_Arnold,0.5394493803343855,67.0,2010.0,Education
-Bear_education_Augusta,115.38137163538568,65.0,150887.0,Education
-Bear_education_Austin,21.116638423307624,113.0,21866.0,Education
-Bear_education_Babara,372.5105477604197,60.0,94175.0,Education
-Bear_education_Benita,521.5384076317172,117.0,141461.0,Education
-Bear_education_Bob,128.5693519724091,72.0,305268.0,Education
-Bear_education_Bonita,0.18761717235809877,95.0,4189.0,Education
-Bear_education_Bulah,1333.2683391647147,13.0,220703.0,Education
-Bear_education_Carlo,4.44261751417139,50.0,14150.0,Education
-Bear_education_Chad,999.7315317426793,94.0,420885.0,Education
-Bear_education_Chana,21.382126261068265,66.0,40706.0,Education
-Bear_education_Chun,100.81531511647873,83.0,46204.0,Education
-Bear_education_Clint,56.756331331085335,65.0,41297.0,Education
-Bear_education_Curtis,68.91401561229748,107.0,44182.0,Education
-Bear_education_Danna,102.98130734279688,64.0,104016.0,Education
-Bear_education_Darrell,39.2829802132026,119.0,56343.0,Education
-Bear_education_Deborah,1.493340586419753,104.0,8516.0,Education
-Bear_education_Deena,8.67914907183688,101.0,18474.0,Education
-Bear_education_Derek,184.34697664091559,76.0,68146.0,Education
-Bear_education_Destiny,125.37888005010961,46.0,55516.0,Education
-Bear_education_Elise,145.29194889978336,60.0,222434.0,Education
-Bear_education_Fannie,431.63125021622255,28.0,116121.0,Education
-Bear_education_Gavin,89.9654304739634,107.0,77055.0,Education
-Bear_education_Herb,12.93098178026624,110.0,23815.0,Education
-Bear_education_Herman,0.2846548986003999,114.0,4000.0,Education
-Bear_education_Holly,1.2480076551446484,114.0,7781.0,Education
-Bear_education_Irene,88.83470253641816,70.0,25996.0,Education
-Bear_education_Iris,45.50789976057462,101.0,58733.0,Education
-Bear_education_Katy,124.40093538970294,100.0,148032.0,Education
-Bear_education_Lashanda,73.89613881748072,65.0,117814.0,Education
-Bear_education_Laurette,50.94600668381933,112.0,43910.0,Education
-Bear_education_Leonel,118.8260849372862,31.0,75228.0,Education
-Bear_education_Lewis,23.493649768637532,93.0,49388.0,Education
-Bear_education_Lila,214.48741520921217,63.0,123612.0,Education
-Bear_education_Liliana,494.10235016216916,74.0,206054.0,Education
-Bear_education_Lorie,400.9490125,12.0,120694.0,Education
-Bear_education_Mara,507.01431696744623,58.0,128126.0,Education
-Bear_education_Marie,23.777067432447836,100.0,51020.0,Education
-Bear_education_Marsha,88.02116195074566,83.0,110919.0,Education
-Bear_education_Marta,41.97751815330216,44.0,47954.0,Education
-Bear_education_Maryjane,330.22373104864,60.0,86091.0,Education
-Bear_education_Merrill,21.887529747852202,25.0,34825.0,Education
-Bear_education_Millie,3.4084882102686636,115.0,7122.0,Education
-Bear_education_Nanette,112.8408613392015,9.0,66203.0,Education
-Bear_education_Oscar,11.705001782653412,118.0,23533.0,Education
-Bear_education_Owen,150.1917695158807,60.0,193202.0,Education
-Bear_education_Paola,149.42739709839245,57.0,137806.0,Education
-Bear_education_Patricia,632.3578278809347,61.0,182943.0,Education
-Bear_education_Pattie,172.789064282041,10.0,86465.0,Education
-Bear_education_Rebecca,781.6453305528557,34.0,153700.0,Education
-Bear_education_Sandy,6.671731276571297,104.0,14542.0,Education
-Bear_education_Santos,8.532948203370465,60.0,14524.0,Education
-Bear_education_Sharon,112.2177151670658,71.0,56637.0,Education
-Bear_education_Shelley,162.52277344658535,62.0,240884.0,Education
-Bear_education_Tara,3.400457473431608,101.0,7900.0,Education
-Bear_education_Thuy,230.68699058830236,53.0,270413.0,Education
-Bear_education_Val,374.4448915944343,60.0,177281.0,Education
-Bear_education_Wade,54.14092333105101,66.0,113589.0,Education
-Bear_education_Wilton,1565.9103543104925,18.0,304333.0,Education
-Bear_education_Wm,50.325106573920976,76.0,93420.0,Education
-Bear_education_Yuri,17.974004627249357,93.0,40835.0,Education
-Bear_education_Yvette,10.980290365163723,70.0,15326.0,Education
-Bear_education_Zandra,979.093269725823,15.0,154706.0,Education
-Bear_lodging_Dannie,8.646647391577623,94.0,23012.0,Lodging/residential
-Bear_lodging_Erick,48.52624347329334,20.0,71994.0,Lodging/residential
-Bear_lodging_Esperanza,29.646392227763926,82.0,86959.0,Lodging/residential
-Bear_lodging_Evan,175.3630453984576,94.0,185200.0,Lodging/residential
-Bear_parking_Bridget,16.626975336284694,69.0,387.0,Parking
-Bear_parking_Bruce,42.160070629450956,17.0,306140.0,Parking
-Bear_parking_Gordon,27.76254725412881,35.0,98539.0,Parking
-Bear_public_Arlean,145.3129069654006,54.0,130581.0,Public services
-Bear_public_Jocelyn,48.64831803671189,94.0,68701.0,Public services
-Bear_public_Lowell,205.42652519240636,75.0,132394.0,Public services
-Bear_public_Orville,37.25759166571656,20.0,29063.0,Public services
-Bear_public_Rayna,111.26716526051761,107.0,166514.0,Public services
-Bear_public_Valorie,194.4200015904686,30.0,189425.0,Public services
-Bear_science_Alison,103.42971094802971,82.0,53234.0,Technology/science
-Bear_science_Eleanor,36.24740663539641,61.0,33167.0,Technology/science
-Bear_utility_Sidney,52.25362490985061,25.0,23432.0,Utility
-Cockatoo_assembly_Britt,47.68296568627451,76.0,15450.0,Entertainment/public assembly
-Cockatoo_assembly_Doyle,254.29440842693143,75.0,199037.0,Entertainment/public assembly
-Cockatoo_assembly_Ed,159.8718088275519,49.0,95079.0,Entertainment/public assembly
-Cockatoo_assembly_Emilio,263.2945859403115,68.0,68693.0,Entertainment/public assembly
-Cockatoo_assembly_Evelyn,7.156228858726107,110.0,19619.0,Entertainment/public assembly
-Cockatoo_assembly_Fernanda,84.81707874411707,61.0,76153.0,Entertainment/public assembly
-Cockatoo_assembly_Genoveva,14.726341463868886,22.0,16351.0,Entertainment/public assembly
-Cockatoo_assembly_Griselda,38.29072834543086,17.0,28760.0,Entertainment/public assembly
-Cockatoo_assembly_Heath,129.92628116391612,36.0,111530.0,Entertainment/public assembly
-Cockatoo_assembly_Meredith,67.01602552781918,73.0,93608.0,Entertainment/public assembly
-Cockatoo_assembly_Mimi,7.491378104371653,27.0,11265.0,Entertainment/public assembly
-Cockatoo_assembly_Pierre,15.269466341917468,71.0,53194.0,Entertainment/public assembly
-Cockatoo_assembly_Ralph,19.067970604114308,109.0,155177.0,Entertainment/public assembly
-Cockatoo_assembly_Rodger,85.5964077123696,49.0,82035.0,Entertainment/public assembly
-Cockatoo_assembly_Tabitha,12.114766021225098,71.0,17104.0,Entertainment/public assembly
-Cockatoo_assembly_Valencia,109.59120546007321,34.0,151900.0,Entertainment/public assembly
-Cockatoo_education_Amira,47.36370384011062,91.0,28432.0,Education
-Cockatoo_education_Arlen,84.00337349854047,111.0,40311.0,Education
-Cockatoo_education_Brendan,69.70507841628398,46.0,116854.0,Education
-Cockatoo_education_Brigitte,713.2991257227943,16.0,279840.0,Education
-Cockatoo_education_Charity,267.5914306856291,103.0,233863.0,Education
-Cockatoo_education_Claudine,38.739578032888616,111.0,28084.0,Education
-Cockatoo_education_Clifton,1.333421209284912,57.0,56969.0,Education
-Cockatoo_education_Collin,206.24204986967857,67.0,56497.0,Education
-Cockatoo_education_Deloris,75.7941047224472,57.0,33148.0,Education
-Cockatoo_education_Erik,166.53524083281542,63.0,140488.0,Education
-Cockatoo_education_Eunice,390.83188504748307,14.0,131271.0,Education
-Cockatoo_education_Evangeline,211.01425637809945,10.0,105434.0,Education
-Cockatoo_education_Flora,870.1564952708993,20.0,149762.0,Education
-Cockatoo_education_Gussie,301.2929048845581,73.0,30143.0,Education
-Cockatoo_education_Helene,116.17651129122416,76.0,33695.0,Education
-Cockatoo_education_Jack,7.467219002109967,112.0,31415.0,Education
-Cockatoo_education_Janet,999.749694453062,29.0,322341.0,Education
-Cockatoo_education_Joeann,393.66417492987597,56.0,111518.0,Education
-Cockatoo_education_Joel,6.07502119858552,63.0,9552.0,Education
-Cockatoo_education_Jon,112.32658227848101,101.0,113988.0,Education
-Cockatoo_education_Julia,32.887858453505714,22.0,40461.0,Education
-Cockatoo_education_Julio,173.87772969787207,13.0,98125.0,Education
-Cockatoo_education_June,104.21731976029312,57.0,105612.0,Education
-Cockatoo_education_Latrice,2.085172193877551,48.0,20889.0,Education
-Cockatoo_education_Laurence,71.64535145799726,112.0,47398.0,Education
-Cockatoo_education_Lionel,330.90308943089434,50.0,125507.0,Education
-Cockatoo_education_Magdalena,10.95394873115344,66.0,9111.0,Education
-Cockatoo_education_Marva,157.9962425212482,34.0,108971.0,Education
-Cockatoo_education_Mayra,69.20700743831122,120.0,124289.0,Education
-Cockatoo_education_Melanie,16.820524599726944,31.0,34875.0,Education
-Cockatoo_education_Nelda,122.37900058356095,40.0,74599.0,Education
-Cockatoo_education_Oliver,168.27760923754573,91.0,180625.0,Education
-Cockatoo_education_Orlando,235.36142233389168,94.0,171008.0,Education
-Cockatoo_education_Rita,12.670707178309964,64.0,18342.0,Education
-Cockatoo_education_Sheryl,471.40926393076495,56.0,160673.0,Education
-Cockatoo_education_Terrence,434.6338655153134,14.0,204029.0,Education
-Cockatoo_education_Tyler,770.3488065959295,34.0,214505.0,Education
-Cockatoo_industrial_Nathaniel,82.85391813251886,56.0,111518.0,Manufacturing/industrial
-Cockatoo_industrial_Sarita,15.000469421179973,87.0,11302.0,Manufacturing/industrial
-Cockatoo_lodging_Aimee,33.696541820776964,96.0,21168.0,Lodging/residential
-Cockatoo_lodging_Alicia,24.156135987796528,71.0,39538.0,Lodging/residential
-Cockatoo_lodging_Ana,13.026547431443108,99.0,20291.0,Lodging/residential
-Cockatoo_lodging_Carmen,17.627545133072772,49.0,40492.0,Lodging/residential
-Cockatoo_lodging_Cletus,83.69257408740998,95.0,166814.0,Lodging/residential
-Cockatoo_lodging_Elvia,257.338902147068,37.0,150294.0,Lodging/residential
-Cockatoo_lodging_Emory,80.41367455459681,78.0,168791.0,Lodging/residential
-Cockatoo_lodging_Eric,19.214975091506915,49.0,41236.0,Lodging/residential
-Cockatoo_lodging_Homer,265.4915472361809,83.0,129664.0,Lodging/residential
-Cockatoo_lodging_Jarrod,61.58927117000646,49.0,65663.0,Lodging/residential
-Cockatoo_lodging_Javier,93.56474916558099,63.0,133594.0,Lodging/residential
-Cockatoo_lodging_Jim,50.95152201749488,49.0,65999.0,Lodging/residential
-Cockatoo_lodging_Jimmie,183.58276982322403,23.0,29775.0,Lodging/residential
-Cockatoo_lodging_Johnathan,8.98644819157516,49.0,40629.0,Lodging/residential
-Cockatoo_lodging_Josephine,81.12447914468376,20.0,78438.0,Lodging/residential
-Cockatoo_lodging_Judi,15.089651442397171,92.0,19876.0,Lodging/residential
-Cockatoo_lodging_Katharine,26.19478423633091,121.0,61439.0,Lodging/residential
-Cockatoo_lodging_Kerri,18.360156945413934,111.0,96336.0,Lodging/residential
-Cockatoo_lodging_Kyle,232.16315011477138,17.0,142901.0,Lodging/residential
-Cockatoo_lodging_Lana,33.676104868658015,122.0,48881.0,Lodging/residential
-Cockatoo_lodging_Linwood,17.986606904894845,49.0,41302.0,Lodging/residential
-Cockatoo_lodging_Lynne,127.35484986041317,19.0,136522.0,Lodging/residential
-Cockatoo_lodging_Mandy,12.268658626257608,59.0,18277.0,Lodging/residential
-Cockatoo_lodging_Olga,68.96781954835907,49.0,40451.0,Lodging/residential
-Cockatoo_lodging_Raphael,95.73441849990695,18.0,83141.0,Lodging/residential
-Cockatoo_lodging_Tesha,21.340473731974143,60.0,24103.0,Lodging/residential
-Cockatoo_lodging_Tessie,228.54340985417315,18.0,169290.0,Lodging/residential
-Cockatoo_office_Ada,432.774246607026,43.0,53303.0,Office
-Cockatoo_office_Christy,191.8469173969712,51.0,187041.0,Office
-Cockatoo_office_Delores,72.64216298157454,61.0,84615.0,Office
-Cockatoo_office_Gail,21.465838610973186,111.0,31316.0,Office
-Cockatoo_office_Georgia,244.4447506824668,92.0,157933.0,Office
-Cockatoo_office_Giovanni,131.34804604338908,67.0,115288.0,Office
-Cockatoo_office_Jimmy,13.71220711624441,114.0,14744.0,Office
-Cockatoo_office_Jodie,52.719716980078196,109.0,31053.0,Office
-Cockatoo_office_Kristin,110.50728907646474,61.0,49553.0,Office
-Cockatoo_office_Laila,222.50213102848986,39.0,110380.0,Office
-Cockatoo_office_Lorraine,6.759551810602289,30.0,11524.0,Office
-Cockatoo_office_Margaret,3.241614906832298,23.0,92271.0,Office
-Cockatoo_office_Paige,109.06809356659842,91.0,130794.0,Office
-Cockatoo_office_Pansy,54.5396425344421,77.0,87977.0,Office
-Cockatoo_office_Rodney,131.3717171226503,62.0,46981.0,Office
-Cockatoo_public_Caleb,181.7870277094972,71.0,136817.0,Public services
-Cockatoo_public_Chiquita,88.26020954449547,31.0,99541.0,Public services
-Cockatoo_public_Harland,50.67414994101943,68.0,50577.0,Public services
-Cockatoo_public_Leah,167.6152929457749,64.0,240026.0,Public services
-Cockatoo_public_Shad,129.7741606094458,24.0,111360.0,Public services
-Cockatoo_public_Valerie,441.57271904584655,59.0,243072.0,Public services
-Cockatoo_science_Rex,185.18961706893344,112.0,60100.0,Technology/science
-Cockatoo_utility_Kimiko,78.69808915139826,34.0,4071.0,Utility
-Cockatoo_utility_Sherri,56.46498501396214,84.0,74922.0,Utility
-Fox_assembly_Adrianne,233.1324145213768,49.0,230259.0,Entertainment/public assembly
-Fox_assembly_Audrey,13.059622028390628,85.0,11935.0,Entertainment/public assembly
-Fox_assembly_Boyce,347.1924451889732,35.0,167066.0,Entertainment/public assembly
-Fox_assembly_Bradley,156.24771453744492,66.0,809530.0,Entertainment/public assembly
-Fox_assembly_Carlos,112.06815335390242,11.0,72193.0,Entertainment/public assembly
-Fox_assembly_Cathy,57.626098484848484,35.0,144086.0,Entertainment/public assembly
-Fox_assembly_Cecelia,16.736885404789053,106.0,17132.0,Entertainment/public assembly
-Fox_assembly_Christie,20.900493749643246,19.0,10733.0,Entertainment/public assembly
-Fox_assembly_Dixie,73.03409254293376,16.0,105505.0,Entertainment/public assembly
-Fox_assembly_Emma,170.83958074268438,60.0,143093.0,Entertainment/public assembly
-Fox_assembly_Gary,91.64637363890314,43.0,24345.0,Entertainment/public assembly
-Fox_assembly_Johnnie,336.371138690306,35.0,254766.0,Entertainment/public assembly
-Fox_assembly_Lakeisha,17.662475473420034,19.0,9666.0,Entertainment/public assembly
-Fox_assembly_Leeanne,18.236949925858333,25.0,20804.0,Entertainment/public assembly
-Fox_assembly_Renna,375.9731121372784,48.0,179449.0,Entertainment/public assembly
-Fox_assembly_Terrell,49.38180189491817,50.0,51999.0,Entertainment/public assembly
-Fox_education_Andre,454.5828592601037,19.0,183460.0,Education
-Fox_education_Ashli,28.945501140250858,54.0,9309.0,Education
-Fox_education_Claire,60.93583912894767,64.0,87673.0,Education
-Fox_education_Claude,971.1235633955587,18.0,193294.0,Education
-Fox_education_Delma,92.43503655054255,56.0,98829.0,Education
-Fox_education_Dominique,184.29497176430323,65.0,96124.0,Education
-Fox_education_Eldon,195.19033639318093,60.0,49662.0,Education
-Fox_education_Elizabeth,476.5396834104428,69.0,272278.0,Education
-Fox_education_Elois,11.220228102189783,55.0,7481.0,Education
-Fox_education_Elvira,189.0583934482365,10.0,148829.0,Education
-Fox_education_Gayla,61.83848039215686,60.0,78268.0,Education
-Fox_education_Geoffrey,120.09778468381137,67.0,137040.0,Education
-Fox_education_Gloria,660.4872011179557,41.0,151637.0,Education
-Fox_education_Jaclyn,192.83681195801006,20.0,71248.0,Education
-Fox_education_Jacqueline,92.12040744021257,45.0,126985.0,Education
-Fox_education_Janina,126.87541309564621,73.0,91273.0,Education
-Fox_education_John,56.9802246995297,57.0,49384.0,Education
-Fox_education_Kim,57.513033413159995,54.0,62238.0,Education
-Fox_education_Leona,271.1793289623717,21.0,282946.0,Education
-Fox_education_Leota,216.12684534671533,32.0,132518.0,Education
-Fox_education_Lilly,186.92269246202352,33.0,131710.0,Education
-Fox_education_Long,147.09477366020525,60.0,137065.0,Education
-Fox_education_Louie,77.63158038768529,53.0,179167.0,Education
-Fox_education_Marcelina,4.125577077363897,117.0,4314.0,Education
-Fox_education_Marlana,177.9954153528636,59.0,64560.0,Education
-Fox_education_Maureen,292.2398721169217,16.0,244964.0,Education
-Fox_education_Melinda,407.60472120866586,31.0,204349.0,Education
-Fox_education_Melvin,60.93497219833764,42.0,24643.0,Education
-Fox_education_Nilda,135.8962026110256,35.0,111635.0,Education
-Fox_education_Ollie,107.93274883137613,54.0,72102.0,Education
-Fox_education_Otilia,931.3824152687437,12.0,327256.0,Education
-Fox_education_Ray,47.59754988028731,115.0,12761.0,Education
-Fox_education_Rudolph,23.591174172794116,54.0,25139.0,Education
-Fox_education_Stacia,76.93156902318071,85.0,33739.0,Education
-Fox_education_Sterling,22.35462538487855,74.0,44203.0,Education
-Fox_education_Suzan,40.838203568764705,110.0,49078.0,Education
-Fox_education_Theodore,270.32488710229217,53.0,122592.0,Education
-Fox_education_Virgil,89.59529220594105,60.0,65907.0,Education
-Fox_education_Wendell,531.9753156184067,32.0,219608.0,Education
-Fox_education_Yolande,522.5005392771634,18.0,179559.0,Education
-Fox_food_Francesco,60.72024117680598,12.0,24867.0,Food sales and service
-Fox_health_Lorena,41.97347749085923,90.0,36904.0,Healthcare
-Fox_lodging_Alana,201.78459350057014,18.0,74682.0,Lodging/residential
-Fox_lodging_Angla,117.93965820256776,57.0,216526.0,Lodging/residential
-Fox_lodging_Frances,99.107022648183,60.0,111304.0,Lodging/residential
-Fox_lodging_Helen,354.0070529555949,15.0,553210.0,Lodging/residential
-Fox_lodging_Isabell,27.69518700114025,73.0,30949.0,Lodging/residential
-Fox_lodging_Jina,141.91429206819868,61.0,106440.0,Lodging/residential
-Fox_lodging_Morris,23.453251169690745,89.0,32841.0,Lodging/residential
-Fox_lodging_Stephan,30.46006334170281,84.0,36406.0,Lodging/residential
-Fox_lodging_Stephen,82.21464625733995,68.0,86323.0,Lodging/residential
-Fox_lodging_Wallace,350.69315450399085,17.0,63348.0,Lodging/residential
-Fox_lodging_Warren,36.2424107448386,73.0,49108.0,Lodging/residential
-Fox_lodging_Winifred,84.07878050171038,23.0,60086.0,Lodging/residential
-Fox_office_Alice,360.738779931585,57.0,202435.0,Office
-Fox_office_Brandy,32.174773012432986,39.0,42214.0,Office
-Fox_office_Carson,51.70108608893957,94.0,74180.0,Office
-Fox_office_Edythe,113.33007011743246,51.0,83660.0,Office
-Fox_office_Essie,34.66553837375179,56.0,131797.0,Office
-Fox_office_Israel,121.31287970353479,41.0,121440.0,Office
-Fox_office_Joy,182.00484231536927,10.0,70837.0,Office
-Fox_office_Karima,70.93463459126669,58.0,51732.0,Office
-Fox_office_Margarita,19.150467445742905,83.0,23549.0,Office
-Fox_office_Molly,7.2076898499457975,25.0,6203.0,Office
-Fox_office_Rowena,36.893463843387934,68.0,33713.0,Office
-Fox_office_Sheila,9.318882996920973,84.0,9703.0,Office
-Fox_office_Thelma,124.38720955421276,36.0,118966.0,Office
-Fox_office_Vicki,146.81316260765414,10.0,70832.0,Office
-Fox_office_Yong,135.2295414623018,20.0,163959.0,Office
-Fox_parking_Felipa,61.71628837687955,20.0,557217.0,Parking
-Fox_parking_Lynelle,13.041327746422667,37.0,157113.0,Parking
-Fox_parking_Tommie,87.36138766896708,20.0,405083.0,Parking
-Fox_public_Bart,132.06106670467503,42.0,101262.0,Public services
-Fox_public_Denny,142.674846895136,17.0,43681.0,Public services
-Fox_public_Martin,183.83454913591513,58.0,345837.0,Public services
-Fox_religion_Maurice,1.835976543509966,76.0,1629.0,Religious worship
-Fox_retail_Manie,64.65268313555454,42.0,45224.0,Retail
-Fox_warehouse_Lorretta,17.876947587849912,49.0,3877.0,Warehouse/storage
-Fox_warehouse_Pearl,32.91734452914542,45.0,12908.0,Warehouse/storage
-Lamb_assembly_Alden,1.2398549564519827,48.0,8730.0,Entertainment/public assembly
-Lamb_assembly_Bertie,73.85997707406139,48.0,149704.0,Entertainment/public assembly
-Lamb_assembly_Cesar,10.189040404617671,48.0,15306.0,Entertainment/public assembly
-Lamb_assembly_Cherie,55.084921882124945,48.0,47275.0,Entertainment/public assembly
-Lamb_assembly_Corliss,9.019070768087781,48.0,31075.0,Entertainment/public assembly
-Lamb_assembly_Delilah,6.455026100125729,48.0,31075.0,Entertainment/public assembly
-Lamb_assembly_Dillon,22.20730934329039,48.0,57189.0,Entertainment/public assembly
-Lamb_assembly_Dorathy,2.159110863095238,58.0,8773.0,Entertainment/public assembly
-Lamb_assembly_Dudley,22.090623232121455,48.0,27857.0,Entertainment/public assembly
-Lamb_assembly_Elinor,22.401068462152303,48.0,49492.0,Entertainment/public assembly
-Lamb_assembly_Ethel,36.24694160325796,48.0,41484.0,Entertainment/public assembly
-Lamb_assembly_Eugenia,6.430371869804882,48.0,12777.0,Entertainment/public assembly
-Lamb_assembly_Isa,1.7799778446201444,48.0,7427.0,Entertainment/public assembly
-Lamb_assembly_Jerry,2.2868067993693337,105.0,11162.0,Entertainment/public assembly
-Lamb_assembly_Katelyn,28.10528883378933,105.0,48642.0,Entertainment/public assembly
-Lamb_assembly_Kurt,1.5581114194097245,79.0,7352.0,Entertainment/public assembly
-Lamb_assembly_Librada,31.27599811331509,48.0,31829.0,Entertainment/public assembly
-Lamb_assembly_Louis,16.401101237696704,48.0,36307.0,Entertainment/public assembly
-Lamb_assembly_Nicole,1.7039575948937324,79.0,6910.0,Entertainment/public assembly
-Lamb_assembly_Ossie,3.687272970964792,48.0,12045.0,Entertainment/public assembly
-Lamb_assembly_Queen,1.2278761735357917,48.0,5619.0,Entertainment/public assembly
-Lamb_assembly_Rosa,110.9747722013224,48.0,12185.0,Entertainment/public assembly
-Lamb_assembly_Steven,3.581592169396724,48.0,5447.0,Entertainment/public assembly
-Lamb_assembly_Tasha,9.13039445237144,48.0,4768.0,Entertainment/public assembly
-Lamb_assembly_Tawana,4.34171685516235,79.0,9494.0,Entertainment/public assembly
-Lamb_assembly_Theresa,2.8679824169809027,48.0,10656.0,Entertainment/public assembly
-Lamb_assembly_Walter,2.7795651689247127,58.0,15715.0,Entertainment/public assembly
-Lamb_assembly_Zita,0.4232097936341378,58.0,6910.0,Entertainment/public assembly
-Lamb_education_Aldo,1.851440915266357,58.0,7922.0,Education
-Lamb_education_Alina,5.678241795481569,48.0,20204.0,Education
-Lamb_education_Antonio,38.85883050373666,79.0,102429.0,Education
-Lamb_education_Armando,40.68228753419972,79.0,120566.0,Education
-Lamb_education_Augustine,5.478751840210309,58.0,31635.0,Education
-Lamb_education_Bert,6.298925430221952,105.0,25866.0,Education
-Lamb_education_Bettye,8.772205624856946,105.0,28976.0,Education
-Lamb_education_Camille,37.78167629076087,58.0,68695.0,Education
-Lamb_education_Carlton,12.089198812568506,58.0,35768.0,Education
-Lamb_education_Chet,2.3654795730965703,79.0,11603.0,Education
-Lamb_education_Daniel,7.830476816985235,48.0,15414.0,Education
-Lamb_education_Darrel,41.64778109989161,58.0,128682.0,Education
-Lamb_education_Debby,8.878449045360574,105.0,31872.0,Education
-Lamb_education_Dolly,4.692188318411596,58.0,23185.0,Education
-Lamb_education_Domitila,56.04436981745579,48.0,139113.0,Education
-Lamb_education_Dwayne,6.068376363012916,48.0,14973.0,Education
-Lamb_education_Ellen,5.150657740484008,105.0,22184.0,Education
-Lamb_education_Emery,39.2307293513606,58.0,109071.0,Education
-Lamb_education_Emilie,4.910567147728657,58.0,14025.0,Education
-Lamb_education_Eula,1.5993828773369811,105.0,31506.0,Education
-Lamb_education_Faith,8.0859769291578,105.0,17190.0,Education
-Lamb_education_Felicia,4.601902770842215,58.0,23487.0,Education
-Lamb_education_Felipe,28.183649569727688,58.0,96929.0,Education
-Lamb_education_Fred,8.80856629978717,105.0,29149.0,Education
-Lamb_education_Freddy,2.713020597168892,48.0,12970.0,Education
-Lamb_education_Gabriel,7.084115596959479,48.0,23605.0,Education
-Lamb_education_Gabrielle,4.716537055403556,105.0,27685.0,Education
-Lamb_education_Garry,6.869864138758715,48.0,33982.0,Education
-Lamb_education_Harold,4.313372296367228,58.0,12788.0,Education
-Lamb_education_Heidi,7.580476033611399,48.0,23293.0,Education
-Lamb_education_Hellen,3.544874708100219,105.0,12088.0,Education
-Lamb_education_Hilary,3.860504783677202,105.0,13789.0,Education
-Lamb_education_Hillary,4.730647832817337,48.0,24090.0,Education
-Lamb_education_Hubert,7.243375312803519,48.0,11270.0,Education
-Lamb_education_Hui,10.85379451271792,105.0,37265.0,Education
-Lamb_education_Ira,3.0424867816845973,48.0,11281.0,Education
-Lamb_education_Isabelle,11.96455377757458,58.0,24251.0,Education
-Lamb_education_Jane,9.881594397759105,58.0,29891.0,Education
-Lamb_education_Junior,44.358095637277295,58.0,121471.0,Education
-Lamb_education_Kasha,5.726785744693791,58.0,25134.0,Education
-Lamb_education_Kayla,8.078276319795409,105.0,26027.0,Education
-Lamb_education_Larissa,6.607283540818083,48.0,27502.0,Education
-Lamb_education_Lawrence,7.274466113297963,48.0,23067.0,Education
-Lamb_education_Lazaro,19.707732455540356,58.0,95433.0,Education
-Lamb_education_Lemuel,8.415518065183022,58.0,17104.0,Education
-Lamb_education_Leopoldo,6.806922176341997,48.0,42883.0,Education
-Lamb_education_Logan,3.6533355103637075,48.0,23164.0,Education
-Lamb_education_Lucas,4.552690315777474,105.0,18697.0,Education
-Lamb_education_Luz,76.62487535082715,11.0,155807.0,Education
-Lamb_education_Mae,51.45902160282717,48.0,121062.0,Education
-Lamb_education_Manuel,8.840769167904904,48.0,30613.0,Education
-Lamb_education_Marc,10.474367018396391,48.0,8730.0,Education
-Lamb_education_Maritza,6.143780705381575,58.0,30300.0,Education
-Lamb_education_Marty,4.859514106697488,48.0,12927.0,Education
-Lamb_education_Maxwell,5.484230786375586,105.0,28363.0,Education
-Lamb_education_Mckenzie,38.27721923098865,58.0,126045.0,Education
-Lamb_education_Moses,6.925694052903618,48.0,13939.0,Education
-Lamb_education_Nathan,4.311554131955002,48.0,31614.0,Education
-Lamb_education_Nichol,1.5362812711411786,79.0,47071.0,Education
-Lamb_education_Norris,9.751252246781638,58.0,34563.0,Education
-Lamb_education_Patsy,5.443118156360727,105.0,32195.0,Education
-Lamb_education_Phil,3.324856051575234,48.0,10915.0,Education
-Lamb_education_Philomena,37.958357067016784,58.0,137046.0,Education
-Lamb_education_Princess,6.621097790497997,48.0,19041.0,Education
-Lamb_education_Randal,8.697919306780175,48.0,28826.0,Education
-Lamb_education_Renae,14.12290008841733,58.0,75272.0,Education
-Lamb_education_Rick,5.757203417533432,58.0,17050.0,Education
-Lamb_education_Robin,38.24790083865815,48.0,94658.0,Education
-Lamb_education_Rodrigo,34.466891631011464,48.0,66187.0,Education
-Lamb_education_Ruben,5.584505326523167,48.0,16985.0,Education
-Lamb_education_Sabrina,3.467126150461407,48.0,11464.0,Education
-Lamb_education_Salvador,6.897535030140657,58.0,27663.0,Education
-Lamb_education_Sara,31.378362990196077,79.0,93764.0,Education
-Lamb_education_Stefan,7.208689438793005,48.0,23153.0,Education
-Lamb_education_Sunny,6.387795551866271,105.0,18202.0,Education
-Lamb_education_Sylvester,3.185822817158503,48.0,22949.0,Education
-Lamb_education_Terina,83.26449158627776,58.0,160038.0,Education
-Lamb_education_Traci,2.64877744170553,48.0,14790.0,Education
-Lamb_education_Vaughn,6.266522060966723,105.0,28191.0,Education
-Lamb_education_Wanda,3.5558293255488658,48.0,11690.0,Education
-Lamb_education_Wilbert,7.576467633467105,79.0,23842.0,Education
-Lamb_education_Willetta,0.019731988144094846,48.0,37975.0,Education
-Lamb_education_Williams,26.369070414741287,48.0,88856.0,Education
-Lamb_food_Sylvia,10.692283847461743,105.0,35306.0,Food sales and service
-Lamb_health_Ken,16.415813360693114,58.0,18471.0,Healthcare
-Lamb_industrial_Carla,127.83204757181943,48.0,90697.0,Manufacturing/industrial
-Lamb_industrial_Enrique,51.80464081737346,48.0,3853.0,Manufacturing/industrial
-Lamb_industrial_Venessa,6.339542476712955,105.0,6329.0,Manufacturing/industrial
-Lamb_industrial_Willard,1.9720321919474517,48.0,10387.0,Manufacturing/industrial
-Lamb_lodging_Burt,2.0567843687489287,48.0,7589.0,Lodging/residential
-Lamb_lodging_Harley,3.2785560561838745,105.0,17082.0,Lodging/residential
-Lamb_office_Bertha,49.2724273369813,48.0,57436.0,Office
-Lamb_office_Caitlin,24.744957763337894,48.0,36221.0,Office
-Lamb_office_Callie,3.3846838905080294,48.0,7416.0,Office
-Lamb_office_Corine,0.37815322850451655,105.0,5393.0,Office
-Lamb_office_Donita,0.3449241771687263,48.0,10463.0,Office
-Lamb_office_Gerardo,8.738954743399244,58.0,52302.0,Office
-Lamb_office_Jo,1.156229042788854,48.0,16598.0,Office
-Lamb_office_Joanna,1.4585810960067969,58.0,11873.0,Office
-Lamb_office_Kent,0.4304574883568919,105.0,12917.0,Office
-Lamb_office_Kerry,2.073989751196172,48.0,42647.0,Office
-Lamb_office_Maggie,2.5172380510440835,48.0,12206.0,Office
-Lamb_office_Peggy,1.8313752787035973,48.0,4650.0,Office
-Lamb_office_Raymond,6.965562927191679,79.0,19429.0,Office
-Lamb_office_Stefani,10.523024393453879,48.0,11442.0,Office
-Lamb_office_Vasiliki,303.4563625907091,48.0,270034.0,Office
-Lamb_office_Velma,91.12367821799111,105.0,152471.0,Office
-Lamb_office_William,1.55753101957636,105.0,7879.0,Office
-Lamb_other_Katharina,9.297887947193965,48.0,5769.0,Other
-Lamb_other_Minerva,8.957170361798028,48.0,5619.0,Other
-Lamb_public_Angeline,21.42501483042208,105.0,41861.0,Public services
-Lamb_public_Bradly,11.89743803406326,48.0,20365.0,Public services
-Lamb_public_Grace,38.48052310852448,48.0,60977.0,Public services
-Lamb_public_Gracie,2.988271973902593,48.0,9849.0,Public services
-Lamb_public_Nyla,3.7157093413610656,105.0,7072.0,Public services
-Lamb_public_Vania,17.583033147167203,48.0,43400.0,Public services
-Lamb_warehouse_Allan,13.593134553956398,58.0,15683.0,Warehouse/storage
-Moose_education_Abbie,1248.9623432038836,72.0,484376.0,Education
-Moose_education_Clark,845.2690896008224,45.0,764237.0,Education
-Moose_education_Diane,1491.6386252320244,62.0,182986.0,Education
-Moose_education_Florence,323.758142270735,29.0,290625.0,Education
-Moose_education_Gladys,1118.3069412421933,55.0,731945.0,Education
-Moose_education_Leland,1336.3302479925594,48.0,527431.0,Education
-Moose_education_Lori,200.55013371340172,60.0,150695.0,Education
-Moose_education_Maria,758.6893879267803,64.0,387500.0,Education
-Moose_education_Marina,40.45182340243276,69.0,64583.0,Education
-Moose_education_Marlon,185.01114452629776,59.0,226042.0,Education
-Moose_education_Rene,482.06084416652385,54.0,409028.0,Education
-Moose_education_Sasha,2.45191269804822,113.0,86111.0,Education
-Mouse_health_Estela,384.6842182991313,88.0,185064.0,Healthcare
-Mouse_health_Ileana,43.587323672327166,70.0,58114.0,Healthcare
-Mouse_health_Justin,783.3503425177997,12.0,190898.0,Healthcare
-Mouse_health_Modesto,532.6797830678169,30.0,193675.0,Healthcare
-Mouse_lodging_Vicente,45.76756137336354,18.0,37555.0,Lodging/residential
-Mouse_science_Micheal,435.8449636376172,28.0,63841.0,Technology/science
-Panther_assembly_Carrol,27.22013571630404,18.0,6412.0,Entertainment/public assembly
-Panther_assembly_David,72.15652591494286,23.0,26944.0,Entertainment/public assembly
-Panther_assembly_Denice,473.1801949985872,33.0,370773.0,Entertainment/public assembly
-Panther_assembly_Gwyneth,242.16866973935154,17.0,76527.0,Entertainment/public assembly
-Panther_assembly_Pamella,83.18984760390161,19.0,81337.0,Entertainment/public assembly
-Panther_education_Alecia,227.93024374426,23.0,105545.0,Education
-Panther_education_Annetta,107.90117943773397,24.0,99380.0,Education
-Panther_education_Aurora,124.39790769176439,11.0,86250.0,Education
-Panther_education_Cleopatra,26.52005539744848,8.0,21657.0,Education
-Panther_education_Diann,89.61714930403448,22.0,23685.0,Education
-Panther_education_Edna,129.13521419509445,54.0,106523.0,Education
-Panther_education_Emily,130.78337501231442,21.0,68094.0,Education
-Panther_education_Enriqueta,96.77347452903408,17.0,76257.0,Education
-Panther_education_Genevieve,263.0827483962264,39.0,130885.0,Education
-Panther_education_Gina,417.13794785276076,49.0,116607.0,Education
-Panther_education_Hugh,602.2942277903363,28.0,111891.0,Education
-Panther_education_Ivan,131.76854176616038,23.0,61904.0,Education
-Panther_education_Janis,26.613712175817962,38.0,10932.0,Education
-Panther_education_Jerome,485.6293628407967,15.0,128887.0,Education
-Panther_education_Jonathan,8.391153934911243,28.0,3569.0,Education
-Panther_education_Karri,385.56445373939306,28.0,54644.0,Education
-Panther_education_Mattie,6.687316167537787,33.0,5376.0,Education
-Panther_education_Misty,33.43364470497655,20.0,2720.0,Education
-Panther_education_Mohammad,148.05098151017822,47.0,110272.0,Education
-Panther_education_Neal,238.6687741046832,27.0,81576.0,Education
-Panther_education_Quintin,302.8941934091095,18.0,113866.0,Education
-Panther_education_Rosalie,64.97776123948837,16.0,7432.0,Education
-Panther_education_Scarlett,22.12270070917006,56.0,29469.0,Education
-Panther_education_Shelton,122.08070168138467,21.0,60809.0,Education
-Panther_education_Sophia,140.8894397020589,56.0,49073.0,Education
-Panther_education_Teofila,156.46622174343034,25.0,93897.0,Education
-Panther_education_Tina,7.525236375819991,24.0,8000.0,Education
-Panther_education_Vincent,151.788491104988,35.0,121074.0,Education
-Panther_education_Violet,149.49552185792348,13.0,7867.0,Education
-Panther_education_Zelda,82.65825967217748,14.0,80942.0,Education
-Panther_lodging_Alita,72.52395979090139,11.0,60088.0,Lodging/residential
-Panther_lodging_Anastasia,51.59244214467364,56.0,24456.0,Lodging/residential
-Panther_lodging_Awilda,89.70176225362064,25.0,59200.0,Lodging/residential
-Panther_lodging_Blaine,75.64040757329565,23.0,38686.0,Lodging/residential
-Panther_lodging_Cora,135.05456529979568,17.0,187647.0,Lodging/residential
-Panther_lodging_Cornelia,42.689104803616836,22.0,53130.0,Lodging/residential
-Panther_lodging_Dianna,51.790617605086545,56.0,24456.0,Lodging/residential
-Panther_lodging_Edison,103.7850268649336,11.0,65359.0,Lodging/residential
-Panther_lodging_Edmond,43.731216304040686,23.0,53130.0,Lodging/residential
-Panther_lodging_Else,44.131566186338915,43.0,37241.0,Lodging/residential
-Panther_lodging_Fausto,50.14147763650491,43.0,37241.0,Lodging/residential
-Panther_lodging_Floyd,157.70928955919752,23.0,42731.0,Lodging/residential
-Panther_lodging_Gale,104.0352065913105,25.0,59200.0,Lodging/residential
-Panther_lodging_Hattie,140.59348831590844,22.0,38686.0,Lodging/residential
-Panther_lodging_Jana,83.35569554990465,22.0,42731.0,Lodging/residential
-Panther_lodging_Janice,55.25159860826563,56.0,24456.0,Lodging/residential
-Panther_lodging_Jorge,66.81712670526761,23.0,41617.0,Lodging/residential
-Panther_lodging_Kaitlin,48.83229773947443,23.0,53130.0,Lodging/residential
-Panther_lodging_Kara,175.8044723581248,18.0,200933.0,Lodging/residential
-Panther_lodging_Kirk,150.66913113279358,18.0,200933.0,Lodging/residential
-Panther_lodging_Marisol,163.70365215794308,17.0,200933.0,Lodging/residential
-Panther_lodging_Myrtle,52.844061992228895,56.0,24456.0,Lodging/residential
-Panther_lodging_Russell,36.27709428551247,43.0,27926.0,Lodging/residential
-Panther_lodging_Sonja,113.3721966796185,11.0,83379.0,Lodging/residential
-Panther_lodging_Teresita,66.44371263775078,22.0,41617.0,Lodging/residential
-Panther_lodging_Tracie,56.785944200339074,22.0,53130.0,Lodging/residential
-Panther_lodging_Willa,70.42193998456464,25.0,37100.0,Lodging/residential
-Panther_office_Antonette,31.468504210823795,38.0,18860.0,Office
-Panther_office_Brent,13.856209997805895,50.0,10743.0,Office
-Panther_office_Catherine,44.27899203108442,19.0,26953.0,Office
-Panther_office_Christian,34.6198127031228,13.0,16726.0,Office
-Panther_office_Christin,18.206162282768776,41.0,15876.0,Office
-Panther_office_Clementine,47.31607939845436,42.0,33370.0,Office
-Panther_office_Danica,5.098396319581803,8.0,2260.0,Office
-Panther_office_Garth,63.34529886973721,8.0,52957.0,Office
-Panther_office_Graham,74.88916262756013,50.0,83957.0,Office
-Panther_office_Hannah,6.683937664264518,38.0,4038.0,Office
-Panther_office_Jeane,20.636361324952325,34.0,7043.0,Office
-Panther_office_Jesus,99.70399959734388,55.0,103286.0,Office
-Panther_office_Karla,35.36006700339079,14.0,27000.0,Office
-Panther_office_Kristen,51.906313421870586,56.0,93860.0,Office
-Panther_office_Larry,52.4146049950544,20.0,18717.0,Office
-Panther_office_Lauretta,172.92639529494878,14.0,36240.0,Office
-Panther_office_Lavinia,22.964660052274652,54.0,10779.0,Office
-Panther_office_Lois,147.10402768046333,11.0,12769.0,Office
-Panther_office_Otto,218.31012804836703,53.0,87742.0,Office
-Panther_office_Patti,473.47534115860117,23.0,156111.0,Office
-Panther_office_Ruthie,117.10840304443032,21.0,45330.0,Office
-Panther_office_Shauna,96.20213657623287,19.0,48392.0,Office
-Panther_office_Taryn,93.10076556693748,55.0,64619.0,Office
-Panther_office_Valarie,33.75578879547863,44.0,15250.0,Office
-Panther_other_Bethel,4.159487107029318,45.0,3025.0,Other
-Panther_other_Bettie,14.10296485340869,43.0,4698.0,Other
-Panther_other_Lucina,371.4163240417116,56.0,226506.0,Other
-Panther_other_Lula,1.2965521791339973,28.0,2070.0,Other
-Panther_other_Tyrone,26.496573628081077,35.0,9569.0,Other
-Panther_parking_Adela,45.926507410285396,22.0,387638.0,Parking
-Panther_parking_Alaina,37.277863996895064,27.0,387638.0,Parking
-Panther_parking_Asia,26.908497718282,10.0,387638.0,Parking
-Panther_parking_Charlene,42.50045275540484,17.0,487433.0,Parking
-Panther_parking_Jody,31.354450563486104,24.0,387638.0,Parking
-Panther_parking_Lorriane,10.722723400649626,16.0,387638.0,Parking
-Panther_parking_Mellissa,15.047913548341667,17.0,387638.0,Parking
-Panther_parking_Stanley,43.228516729123946,26.0,387638.0,Parking
-Panther_retail_Felix,119.53686939107092,16.0,31666.0,Retail
-Panther_retail_Gilbert,0.7910947783849424,8.0,15304.0,Retail
-Panther_retail_Kristina,32.063591454981655,44.0,59071.0,Retail
-Panther_retail_Lester,5.808891928768176,8.0,9045.0,Retail
-Panther_retail_Rachel,3.48410048039562,39.0,283.0,Retail
-Panther_retail_Romeo,433.59154678626925,28.0,161755.0,Retail
-Rat_assembly_Adolfo,34.980130737611326,19.0,15960.0,Entertainment/public assembly
-Rat_assembly_Aisha,81.52896043577982,55.0,23803.0,Entertainment/public assembly
-Rat_assembly_Damaris,4.905121657983626,95.0,16098.0,Entertainment/public assembly
-Rat_assembly_Francine,39.82384007331882,21.0,17262.0,Entertainment/public assembly
-Rat_assembly_Frieda,123.99387165101902,20.0,36744.0,Entertainment/public assembly
-Rat_assembly_Jannie,0.8282300732936326,124.0,194300.0,Entertainment/public assembly
-Rat_assembly_Mirta,168.75222463312969,98.0,86120.0,Entertainment/public assembly
-Rat_assembly_Teddy,85.3436941836501,47.0,22334.0,Entertainment/public assembly
-Rat_assembly_Trent,22.556157936871,24.0,3545.0,Entertainment/public assembly
-Rat_education_Abigail,121.28607223476298,48.0,95000.0,Education
-Rat_education_Adell,148.86776098742646,48.0,104294.0,Education
-Rat_education_Adrian,77.76560593900481,100.0,64113.0,Education
-Rat_education_Alfonso,334.0551377039794,99.0,85039.0,Education
-Rat_education_Alfred,360.1609674972282,89.0,207000.0,Education
-Rat_education_Alonzo,139.66211711711713,92.0,64750.0,Education
-Rat_education_Angelica,57.15700940860216,60.0,56000.0,Education
-Rat_education_Beverly,661.5091322690992,11.0,394000.0,Education
-Rat_education_Brett,65.32838128467655,84.0,109000.0,Education
-Rat_education_Bryant,55.8517934907174,75.0,69600.0,Education
-Rat_education_Calvin,37.193955202559856,9.0,57100.0,Education
-Rat_education_Candida,140.0861067916762,8.0,38500.0,Education
-Rat_education_Carmela,86.25429381118681,22.0,47984.0,Education
-Rat_education_Chance,58.039795081967206,60.0,60200.0,Education
-Rat_education_Cinthia,35.41686287569728,7.0,69300.0,Education
-Rat_education_Colin,54.63628119990841,82.0,83400.0,Education
-Rat_education_Conrad,171.27679157894738,10.0,356000.0,Education
-Rat_education_Dana,97.67509563231516,60.0,70800.0,Education
-Rat_education_Dann,195.01841527555456,54.0,182500.0,Education
-Rat_education_Deanna,88.3179127601189,55.0,66900.0,Education
-Rat_education_Debra,105.5178973918028,93.0,51500.0,Education
-Rat_education_Denise,84.06219048786467,53.0,65500.0,Education
-Rat_education_Dianne,139.72526850864966,65.0,73200.0,Education
-Rat_education_Donnell,59.669302224633746,100.0,79800.0,Education
-Rat_education_Earl,158.9786232008716,50.0,75900.0,Education
-Rat_education_Earnest,60.47465136249141,62.0,59900.0,Education
-Rat_education_Edmund,50.29124585818423,65.0,66600.0,Education
-Rat_education_Eleonora,226.50156460090454,20.0,115000.0,Education
-Rat_education_Elisa,39.47272950445307,101.0,43000.0,Education
-Rat_education_Elsie,117.58989418292056,13.0,376507.0,Education
-Rat_education_Esther,94.72758229804775,116.0,69600.0,Education
-Rat_education_Everett,177.4303945337069,121.0,86375.0,Education
-Rat_education_Fernando,62.38918074082556,114.0,58908.0,Education
-Rat_education_Guillermo,108.83802908841045,92.0,79700.0,Education
-Rat_education_Humberto,175.00296246648793,56.0,99975.0,Education
-Rat_education_Irma,74.4417057410796,65.0,72800.0,Education
-Rat_education_Jacob,55.63530341195329,10.0,57165.0,Education
-Rat_education_Jeanne,56.100689579923625,62.0,49500.0,Education
-Rat_education_Jena,163.394498511564,114.0,40950.0,Education
-Rat_education_Kathryn,518.9253166866199,18.0,325217.0,Education
-Rat_education_Keith,104.94822847682119,94.0,101400.0,Education
-Rat_education_Kelsey,157.8237474309203,97.0,99325.0,Education
-Rat_education_Kristie,130.63100576553492,20.0,62200.0,Education
-Rat_education_Lee,403.23247363320223,10.0,283000.0,Education
-Rat_education_Leonardo,48.793015826322296,89.0,47200.0,Education
-Rat_education_Lincoln,161.20621442070902,93.0,116872.0,Education
-Rat_education_Liz,91.22263091699062,113.0,69400.0,Education
-Rat_education_Lonnie,60.481981564181844,96.0,50000.0,Education
-Rat_education_Marianna,79.97960390355912,103.0,63900.0,Education
-Rat_education_Maricela,144.04047761544328,46.0,69600.0,Education
-Rat_education_Marvin,53.78601021403569,124.0,59400.0,Education
-Rat_education_Mavis,204.05943564115066,65.0,158000.0,Education
-Rat_education_Meghan,53.618639451898375,113.0,49100.0,Education
-Rat_education_Milagros,110.3424255020198,69.0,99700.0,Education
-Rat_education_Moises,160.21769814334198,74.0,83900.0,Education
-Rat_education_Mona,78.02931054196203,112.0,53000.0,Education
-Rat_education_Morton,150.53018294077293,93.0,155100.0,Education
-Rat_education_Nellie,435.2471076079507,96.0,282200.0,Education
-Rat_education_Nona,98.38269078834374,84.0,271300.0,Education
-Rat_education_Nydia,152.27767036632355,80.0,83800.0,Education
-Rat_education_Patty,137.14832961245634,68.0,170000.0,Education
-Rat_education_Paula,124.07289716393821,82.0,77500.0,Education
-Rat_education_Penny,166.85358389683913,17.0,75500.0,Education
-Rat_education_Renee,34.26183112279899,116.0,37083.0,Education
-Rat_education_Robyn,155.17150719342317,63.0,98900.0,Education
-Rat_education_Rogelio,126.23122160728698,10.0,62800.0,Education
-Rat_education_Romana,37.2346487104561,95.0,47400.0,Education
-Rat_education_Roxanne,415.84560239117104,47.0,162700.0,Education
-Rat_education_Salvatore,78.40169563228905,9.0,48994.0,Education
-Rat_education_Sherwood,102.61333925705114,97.0,95100.0,Education
-Rat_education_Sina,167.88364595276312,115.0,88300.0,Education
-Rat_education_Stuart,47.54103961529654,108.0,82200.0,Education
-Rat_education_Tania,311.3102763036456,11.0,235000.0,Education
-Rat_education_Terese,116.13254992846925,85.0,180000.0,Education
-Rat_education_Theo,555.969565589191,101.0,288800.0,Education
-Rat_education_Tim,62.24649034616703,56.0,47500.0,Education
-Rat_education_Tristan,29.236266538830296,117.0,110100.0,Education
-Rat_education_Ulrike,103.92127486851132,92.0,46484.0,Education
-Rat_education_Verna,83.11705406800068,54.0,66600.0,Education
-Rat_education_Veronica,184.1168776041667,9.0,154000.0,Education
-Rat_education_Willie,238.9079705747653,15.0,104200.0,Education
-Rat_education_Willy,89.2063518215309,78.0,87600.0,Education
-Rat_education_Wilmer,102.32852155468929,74.0,66200.0,Education
-Rat_education_Winnie,55.29869517920531,65.0,59200.0,Education
-Rat_education_Yu,80.97514956254433,93.0,21903.0,Education
-Rat_education_Zina,49.121130309988516,64.0,57100.0,Education
-Rat_education_Zoe,93.63981134232793,65.0,69400.0,Education
-Rat_health_Ann,92.57793219841503,66.0,80500.0,Healthcare
-Rat_health_Guy,1465.3746170678337,102.0,819577.0,Healthcare
-Rat_health_Mildred,17.99408256618446,14.0,9813.0,Healthcare
-Rat_health_Rosaria,31.019803887935964,14.0,15000.0,Healthcare
-Rat_health_Shane,1146.168417162326,12.0,450000.0,Healthcare
-Rat_health_Tanya,51.39887588490523,10.0,29192.0,Healthcare
-Rat_lodging_Ben,328.51833765784465,75.0,350000.0,Lodging/residential
-Rat_lodging_Christine,62.181650468785726,89.0,31283.0,Lodging/residential
-Rat_lodging_Jeannette,5.182877697841726,14.0,5000.0,Lodging/residential
-Rat_lodging_Marguerite,22.58435350281836,124.0,18340.0,Lodging/residential
-Rat_office_Adele,599.7146263202968,14.0,408000.0,Office
-Rat_office_Avis,914.0166373690338,38.0,474680.0,Office
-Rat_office_Chris,894.0551361272561,82.0,585955.0,Office
-Rat_office_Colby,2128.527409350057,35.0,850354.0,Office
-Rat_office_Jessica,701.0325791358595,120.0,328760.0,Office
-Rat_office_Jill,647.851901808486,14.0,340000.0,Office
-Rat_office_Lora,427.7759368577301,14.0,229000.0,Office
-Rat_office_Loyd,55.36507079241836,22.0,29916.0,Office
-Rat_public_Alanna,1165.342615731376,48.0,461647.0,Public services
-Rat_public_Angle,336.52397093102974,20.0,81397.0,Public services
-Rat_public_Berry,97.53406071346902,46.0,43955.0,Public services
-Rat_public_Bronwyn,444.89481369528573,83.0,555243.0,Public services
-Rat_public_Carole,18.80790601719198,61.0,9941.0,Public services
-Rat_public_Corinne,25.419167619483193,40.0,24875.0,Public services
-Rat_public_Dalia,186.1690613366932,13.0,90635.0,Public services
-Rat_public_Damon,20.763824541284404,59.0,13224.0,Public services
-Rat_public_Faye,31.197325154781016,51.0,18432.0,Public services
-Rat_public_Fern,48.69511267362112,46.0,35241.0,Public services
-Rat_public_Fredrick,13.285871310507675,64.0,12945.0,Public services
-Rat_public_Helena,24.120835242896426,56.0,12754.0,Public services
-Rat_public_Isabel,53.40183569631832,92.0,16576.0,Public services
-Rat_public_Josiah,87.95384690144066,74.0,46007.0,Public services
-Rat_public_Kelle,25.226249350949058,88.0,20110.0,Public services
-Rat_public_Kelly,21.0656388650043,55.0,10577.0,Public services
-Rat_public_Laverne,12.758578369726765,94.0,11934.0,Public services
-Rat_public_Lea,68.0831136999773,52.0,110800.0,Public services
-Rat_public_Leo,18.11085870993544,95.0,13100.0,Public services
-Rat_public_Leta,17.020901564462715,58.0,10151.0,Public services
-Rat_public_Lloyd,71.74574593542478,18.0,54061.0,Public services
-Rat_public_Michelle,68.87627716769619,62.0,35033.0,Public services
-Rat_public_Nancy,18.918858533791525,112.0,8925.0,Public services
-Rat_public_Nelson,44.52671399129837,10.0,16000.0,Public services
-Rat_public_Norene,27.337894209577236,111.0,13044.0,Public services
-Rat_public_Ramona,26.87214065180103,116.0,14519.0,Public services
-Rat_public_Roma,53.29511034877073,13.0,21472.0,Public services
-Rat_public_Sana,1091.6361439077718,53.0,400000.0,Public services
-Rat_public_Toya,26.671981630309986,44.0,16768.0,Public services
-Rat_public_Yessenia,113.69111536702492,17.0,22000.0,Public services
-Rat_public_Yetta,18.199088373272474,70.0,21318.0,Public services
-Rat_religion_Kathy,5.158069422999943,14.0,10000.0,Religious worship
-Rat_warehouse_Breanna,91.04812113579116,49.0,51622.0,Warehouse/storage
-Rat_warehouse_Eloisa,90.99361212605618,41.0,202829.0,Warehouse/storage
-Rat_warehouse_Maegan,6.922520071899341,19.0,14839.0,Warehouse/storage
-Robin_assembly_Colleen,47.350963953488375,57.0,64024.0,Entertainment/public assembly
-Robin_education_Audrea,286.843880124259,18.0,27814.0,Education
-Robin_education_Billi,37.919750307797536,124.0,38319.0,Education
-Robin_education_Cecilia,52.30192554149567,20.0,15489.0,Education
-Robin_education_Derick,528.6653270747834,118.0,150318.0,Education
-Robin_education_Derrick,403.12179985180114,115.0,118338.0,Education
-Robin_education_Julius,345.7457023540812,64.0,138316.0,Education
-Robin_education_Kristopher,124.47468666780667,35.0,61204.0,Education
-Robin_education_Lashandra,167.11157385430917,19.0,97532.0,Education
-Robin_education_Leslie,886.1533666666667,66.0,139683.0,Education
-Robin_education_Lizbeth,121.591894750342,20.0,21539.0,Education
-Robin_education_Madeline,361.61170426926583,66.0,100481.0,Education
-Robin_education_Margarito,528.5337779411765,17.0,91149.0,Education
-Robin_education_Megan,250.5851694653443,111.0,81580.0,Education
-Robin_education_Mercedes,255.11012101003195,71.0,56995.0,Education
-Robin_education_So,491.2702740538075,56.0,129716.0,Education
-Robin_education_Takako,159.66869597013223,29.0,16802.0,Education
-Robin_education_Terrance,263.88506616507067,33.0,83043.0,Education
-Robin_education_Zenia,200.96859951550388,48.0,68211.0,Education
-Robin_lodging_Armand,38.25760122549019,64.0,56467.0,Lodging/residential
-Robin_lodging_Celia,51.24684803351573,29.0,83108.0,Lodging/residential
-Robin_lodging_Dorthy,31.057227496580026,64.0,62893.0,Lodging/residential
-Robin_lodging_Elmer,93.68329908230734,56.0,102957.0,Lodging/residential
-Robin_lodging_Janie,118.7833542122663,94.0,66661.0,Lodging/residential
-Robin_lodging_Oliva,54.80995225148199,64.0,64723.0,Lodging/residential
-Robin_lodging_Phillip,38.75510156196361,57.0,66532.0,Lodging/residential
-Robin_lodging_Pricilla,62.70998735035914,26.0,49589.0,Lodging/residential
-Robin_lodging_Renea,89.87541041381668,68.0,102774.0,Lodging/residential
-Robin_office_Addie,20.53844623233014,59.0,16092.0,Office
-Robin_office_Antonina,416.17895584245326,69.0,65657.0,Office
-Robin_office_Donald,151.44167067643355,47.0,82548.0,Office
-Robin_office_Erma,16.054635691318328,96.0,47727.0,Office
-Robin_office_Gayle,59.11175215458276,105.0,44789.0,Office
-Robin_office_Maryann,231.2098553123575,117.0,34455.0,Office
-Robin_office_Sammie,82.35071574327405,94.0,51688.0,Office
-Robin_office_Saul,17.586049446978336,68.0,31614.0,Office
-Robin_office_Serena,51.62377484040128,27.0,30495.0,Office
-Robin_office_Soledad,13.234563709447517,54.0,10301.0,Office
-Robin_office_Wai,166.69310816,64.0,174601.0,Office
-Robin_office_Zelma,109.95793881098952,64.0,81881.0,Office
-Robin_public_Cami,70.43631644436844,124.0,56629.0,Public services
-Shrew_office_Doug,75.583798524222,118.0,60601.0,Office
-Shrew_office_Katherine,55.866196581196576,122.0,36705.0,Office
-Shrew_office_Kenneth,28.577072649572653,87.0,18503.0,Office
-Shrew_office_Lin,375.8714666382435,109.0,150641.0,Office
-Shrew_office_Nora,178.7024190110827,118.0,109824.0,Office
-Shrew_office_Sherill,306.19062233589085,24.0,194805.0,Office
+Bear_assembly_Angel,494.33639636993416,92.0,238065.0,Entertainment/public assembly
+Bear_assembly_Beatrice,42.9620556983719,67.0,30160.0,Entertainment/public assembly
+Bear_assembly_Danial,160.6557286124559,9.0,82670.0,Entertainment/public assembly
+Bear_assembly_Diana,0.8568836038748526,30.0,1305.0,Entertainment/public assembly
+Bear_assembly_Genia,261.0890542326063,102.0,261091.0,Entertainment/public assembly
+Bear_assembly_Harry,17.703158165587258,93.0,59326.0,Entertainment/public assembly
+Bear_assembly_Jose,257.14087280205655,59.0,36180.0,Entertainment/public assembly
+Bear_assembly_Roxy,15.917531180779374,122.0,11910.0,Entertainment/public assembly
+Bear_assembly_Ruby,69.33275551873858,98.0,124197.0,Entertainment/public assembly
+Bear_education_Alfredo,0.18113274442538593,116.0,6564.0,Education
+Bear_education_Alvaro,419.54197717521885,31.0,109588.0,Education
+Bear_education_Arnold,0.5394493803343855,68.0,2010.0,Education
+Bear_education_Augusta,115.38137163538568,66.0,150887.0,Education
+Bear_education_Austin,21.116638423307624,114.0,21866.0,Education
+Bear_education_Babara,372.5105477604197,61.0,94175.0,Education
+Bear_education_Benita,521.5384076317172,118.0,141461.0,Education
+Bear_education_Bob,128.5693519724091,73.0,305268.0,Education
+Bear_education_Bonita,0.18761717235809877,96.0,4189.0,Education
+Bear_education_Bulah,1333.2683391647147,14.0,220703.0,Education
+Bear_education_Carlo,4.44261751417139,51.0,14150.0,Education
+Bear_education_Chad,999.7315317426793,95.0,420885.0,Education
+Bear_education_Chana,21.382126261068265,67.0,40706.0,Education
+Bear_education_Chun,100.81531511647873,84.0,46204.0,Education
+Bear_education_Clint,56.756331331085335,66.0,41297.0,Education
+Bear_education_Curtis,68.91401561229748,108.0,44182.0,Education
+Bear_education_Danna,102.98130734279688,65.0,104016.0,Education
+Bear_education_Darrell,39.2829802132026,120.0,56343.0,Education
+Bear_education_Deborah,1.493340586419753,105.0,8516.0,Education
+Bear_education_Deena,8.67914907183688,102.0,18474.0,Education
+Bear_education_Derek,184.34697664091559,77.0,68146.0,Education
+Bear_education_Destiny,125.37888005010961,47.0,55516.0,Education
+Bear_education_Elise,145.29194889978336,61.0,222434.0,Education
+Bear_education_Fannie,431.63125021622255,29.0,116121.0,Education
+Bear_education_Gavin,89.9654304739634,108.0,77055.0,Education
+Bear_education_Herb,12.93098178026624,111.0,23815.0,Education
+Bear_education_Herman,0.2846548986003999,115.0,4000.0,Education
+Bear_education_Holly,1.2480076551446484,115.0,7781.0,Education
+Bear_education_Irene,88.83470253641816,71.0,25996.0,Education
+Bear_education_Iris,45.50789976057462,102.0,58733.0,Education
+Bear_education_Katy,124.40093538970294,101.0,148032.0,Education
+Bear_education_Lashanda,73.89613881748072,66.0,117814.0,Education
+Bear_education_Laurette,50.94600668381933,113.0,43910.0,Education
+Bear_education_Leonel,118.8260849372862,32.0,75228.0,Education
+Bear_education_Lewis,23.493649768637532,94.0,49388.0,Education
+Bear_education_Lila,214.48741520921217,64.0,123612.0,Education
+Bear_education_Liliana,494.10235016216916,75.0,206054.0,Education
+Bear_education_Lorie,400.9490125,13.0,120694.0,Education
+Bear_education_Mara,507.01431696744623,59.0,128126.0,Education
+Bear_education_Marie,23.777067432447836,101.0,51020.0,Education
+Bear_education_Marsha,88.02116195074566,84.0,110919.0,Education
+Bear_education_Marta,41.97751815330216,45.0,47954.0,Education
+Bear_education_Maryjane,330.22373104864,61.0,86091.0,Education
+Bear_education_Merrill,21.887529747852202,26.0,34825.0,Education
+Bear_education_Millie,3.4084882102686636,116.0,7122.0,Education
+Bear_education_Nanette,112.8408613392015,10.0,66203.0,Education
+Bear_education_Oscar,11.705001782653412,119.0,23533.0,Education
+Bear_education_Owen,150.1917695158807,61.0,193202.0,Education
+Bear_education_Paola,149.42739709839245,58.0,137806.0,Education
+Bear_education_Patricia,632.3578278809347,62.0,182943.0,Education
+Bear_education_Pattie,172.789064282041,11.0,86465.0,Education
+Bear_education_Rebecca,781.6453305528557,35.0,153700.0,Education
+Bear_education_Sandy,6.671731276571297,105.0,14542.0,Education
+Bear_education_Santos,8.532948203370465,61.0,14524.0,Education
+Bear_education_Sharon,112.2177151670658,72.0,56637.0,Education
+Bear_education_Shelley,162.52277344658535,63.0,240884.0,Education
+Bear_education_Tara,3.400457473431608,102.0,7900.0,Education
+Bear_education_Thuy,230.68699058830236,54.0,270413.0,Education
+Bear_education_Val,374.4448915944343,61.0,177281.0,Education
+Bear_education_Wade,54.14092333105101,67.0,113589.0,Education
+Bear_education_Wilton,1565.9103543104925,19.0,304333.0,Education
+Bear_education_Wm,50.325106573920976,77.0,93420.0,Education
+Bear_education_Yuri,17.974004627249357,94.0,40835.0,Education
+Bear_education_Yvette,10.980290365163723,71.0,15326.0,Education
+Bear_education_Zandra,979.093269725823,16.0,154706.0,Education
+Bear_lodging_Dannie,8.646647391577623,95.0,23012.0,Lodging/residential
+Bear_lodging_Erick,48.52624347329334,21.0,71994.0,Lodging/residential
+Bear_lodging_Esperanza,29.646392227763926,83.0,86959.0,Lodging/residential
+Bear_lodging_Evan,175.3630453984576,95.0,185200.0,Lodging/residential
+Bear_parking_Bridget,16.626975336284694,70.0,387.0,Parking
+Bear_parking_Bruce,42.160070629450956,18.0,306140.0,Parking
+Bear_parking_Gordon,27.76254725412881,36.0,98539.0,Parking
+Bear_public_Arlean,145.3129069654006,55.0,130581.0,Public services
+Bear_public_Jocelyn,48.64831803671189,95.0,68701.0,Public services
+Bear_public_Lowell,205.42652519240636,76.0,132394.0,Public services
+Bear_public_Orville,37.25759166571656,21.0,29063.0,Public services
+Bear_public_Rayna,111.26716526051761,108.0,166514.0,Public services
+Bear_public_Valorie,194.4200015904686,31.0,189425.0,Public services
+Bear_science_Alison,103.42971094802971,83.0,53234.0,Technology/science
+Bear_science_Eleanor,36.24740663539641,62.0,33167.0,Technology/science
+Bear_utility_Sidney,52.25362490985061,26.0,23432.0,Utility
+Cockatoo_assembly_Britt,47.68296568627451,77.0,15450.0,Entertainment/public assembly
+Cockatoo_assembly_Doyle,254.29440842693143,76.0,199037.0,Entertainment/public assembly
+Cockatoo_assembly_Ed,159.8718088275519,50.0,95079.0,Entertainment/public assembly
+Cockatoo_assembly_Emilio,263.2945859403115,69.0,68693.0,Entertainment/public assembly
+Cockatoo_assembly_Evelyn,7.156228858726107,111.0,19619.0,Entertainment/public assembly
+Cockatoo_assembly_Fernanda,84.81707874411707,62.0,76153.0,Entertainment/public assembly
+Cockatoo_assembly_Genoveva,14.726341463868886,23.0,16351.0,Entertainment/public assembly
+Cockatoo_assembly_Griselda,38.29072834543086,18.0,28760.0,Entertainment/public assembly
+Cockatoo_assembly_Heath,129.92628116391612,37.0,111530.0,Entertainment/public assembly
+Cockatoo_assembly_Meredith,67.01602552781918,74.0,93608.0,Entertainment/public assembly
+Cockatoo_assembly_Mimi,7.491378104371653,28.0,11265.0,Entertainment/public assembly
+Cockatoo_assembly_Pierre,15.269466341917468,72.0,53194.0,Entertainment/public assembly
+Cockatoo_assembly_Ralph,19.067970604114308,110.0,155177.0,Entertainment/public assembly
+Cockatoo_assembly_Rodger,85.5964077123696,50.0,82035.0,Entertainment/public assembly
+Cockatoo_assembly_Tabitha,12.114766021225098,72.0,17104.0,Entertainment/public assembly
+Cockatoo_assembly_Valencia,109.59120546007321,35.0,151900.0,Entertainment/public assembly
+Cockatoo_education_Amira,47.36370384011062,92.0,28432.0,Education
+Cockatoo_education_Arlen,84.00337349854047,112.0,40311.0,Education
+Cockatoo_education_Brendan,69.70507841628398,47.0,116854.0,Education
+Cockatoo_education_Brigitte,713.2991257227943,17.0,279840.0,Education
+Cockatoo_education_Charity,267.5914306856291,104.0,233863.0,Education
+Cockatoo_education_Claudine,38.739578032888616,112.0,28084.0,Education
+Cockatoo_education_Clifton,1.333421209284912,58.0,56969.0,Education
+Cockatoo_education_Collin,206.24204986967857,68.0,56497.0,Education
+Cockatoo_education_Deloris,75.7941047224472,58.0,33148.0,Education
+Cockatoo_education_Erik,166.53524083281542,64.0,140488.0,Education
+Cockatoo_education_Eunice,390.83188504748307,15.0,131271.0,Education
+Cockatoo_education_Evangeline,211.01425637809945,11.0,105434.0,Education
+Cockatoo_education_Flora,870.1564952708993,21.0,149762.0,Education
+Cockatoo_education_Gussie,301.2929048845581,74.0,30143.0,Education
+Cockatoo_education_Helene,116.17651129122416,77.0,33695.0,Education
+Cockatoo_education_Jack,7.467219002109967,113.0,31415.0,Education
+Cockatoo_education_Janet,999.749694453062,30.0,322341.0,Education
+Cockatoo_education_Joeann,393.66417492987597,57.0,111518.0,Education
+Cockatoo_education_Joel,6.07502119858552,64.0,9552.0,Education
+Cockatoo_education_Jon,112.32658227848101,102.0,113988.0,Education
+Cockatoo_education_Julia,32.887858453505714,23.0,40461.0,Education
+Cockatoo_education_Julio,173.87772969787207,14.0,98125.0,Education
+Cockatoo_education_June,104.21731976029312,58.0,105612.0,Education
+Cockatoo_education_Latrice,2.085172193877551,49.0,20889.0,Education
+Cockatoo_education_Laurence,71.64535145799726,113.0,47398.0,Education
+Cockatoo_education_Lionel,330.90308943089434,51.0,125507.0,Education
+Cockatoo_education_Magdalena,10.95394873115344,67.0,9111.0,Education
+Cockatoo_education_Marva,157.9962425212482,35.0,108971.0,Education
+Cockatoo_education_Mayra,69.20700743831122,121.0,124289.0,Education
+Cockatoo_education_Melanie,16.820524599726944,32.0,34875.0,Education
+Cockatoo_education_Nelda,122.37900058356095,41.0,74599.0,Education
+Cockatoo_education_Oliver,168.27760923754573,92.0,180625.0,Education
+Cockatoo_education_Orlando,235.36142233389168,95.0,171008.0,Education
+Cockatoo_education_Rita,12.670707178309964,65.0,18342.0,Education
+Cockatoo_education_Sheryl,471.40926393076495,57.0,160673.0,Education
+Cockatoo_education_Terrence,434.6338655153134,15.0,204029.0,Education
+Cockatoo_education_Tyler,770.3488065959295,35.0,214505.0,Education
+Cockatoo_industrial_Nathaniel,82.85391813251886,57.0,111518.0,Manufacturing/industrial
+Cockatoo_industrial_Sarita,15.000469421179973,88.0,11302.0,Manufacturing/industrial
+Cockatoo_lodging_Aimee,33.696541820776964,97.0,21168.0,Lodging/residential
+Cockatoo_lodging_Alicia,24.156135987796528,72.0,39538.0,Lodging/residential
+Cockatoo_lodging_Ana,13.026547431443108,100.0,20291.0,Lodging/residential
+Cockatoo_lodging_Carmen,17.627545133072772,50.0,40492.0,Lodging/residential
+Cockatoo_lodging_Cletus,83.69257408740998,96.0,166814.0,Lodging/residential
+Cockatoo_lodging_Elvia,257.338902147068,38.0,150294.0,Lodging/residential
+Cockatoo_lodging_Emory,80.41367455459681,79.0,168791.0,Lodging/residential
+Cockatoo_lodging_Eric,19.214975091506915,50.0,41236.0,Lodging/residential
+Cockatoo_lodging_Homer,265.4915472361809,84.0,129664.0,Lodging/residential
+Cockatoo_lodging_Jarrod,61.58927117000646,50.0,65663.0,Lodging/residential
+Cockatoo_lodging_Javier,93.56474916558099,64.0,133594.0,Lodging/residential
+Cockatoo_lodging_Jim,50.95152201749488,50.0,65999.0,Lodging/residential
+Cockatoo_lodging_Jimmie,183.58276982322403,24.0,29775.0,Lodging/residential
+Cockatoo_lodging_Johnathan,8.98644819157516,50.0,40629.0,Lodging/residential
+Cockatoo_lodging_Josephine,81.12447914468376,21.0,78438.0,Lodging/residential
+Cockatoo_lodging_Judi,15.089651442397171,93.0,19876.0,Lodging/residential
+Cockatoo_lodging_Katharine,26.19478423633091,122.0,61439.0,Lodging/residential
+Cockatoo_lodging_Kerri,18.360156945413934,112.0,96336.0,Lodging/residential
+Cockatoo_lodging_Kyle,232.16315011477138,18.0,142901.0,Lodging/residential
+Cockatoo_lodging_Lana,33.676104868658015,123.0,48881.0,Lodging/residential
+Cockatoo_lodging_Linwood,17.986606904894845,50.0,41302.0,Lodging/residential
+Cockatoo_lodging_Lynne,127.35484986041317,20.0,136522.0,Lodging/residential
+Cockatoo_lodging_Mandy,12.268658626257608,60.0,18277.0,Lodging/residential
+Cockatoo_lodging_Olga,68.96781954835907,50.0,40451.0,Lodging/residential
+Cockatoo_lodging_Raphael,95.73441849990695,19.0,83141.0,Lodging/residential
+Cockatoo_lodging_Tesha,21.340473731974143,61.0,24103.0,Lodging/residential
+Cockatoo_lodging_Tessie,228.54340985417315,19.0,169290.0,Lodging/residential
+Cockatoo_office_Ada,432.774246607026,44.0,53303.0,Office
+Cockatoo_office_Christy,191.8469173969712,52.0,187041.0,Office
+Cockatoo_office_Delores,72.64216298157454,62.0,84615.0,Office
+Cockatoo_office_Gail,21.465838610973186,112.0,31316.0,Office
+Cockatoo_office_Georgia,244.4447506824668,93.0,157933.0,Office
+Cockatoo_office_Giovanni,131.34804604338908,68.0,115288.0,Office
+Cockatoo_office_Jimmy,13.71220711624441,115.0,14744.0,Office
+Cockatoo_office_Jodie,52.719716980078196,110.0,31053.0,Office
+Cockatoo_office_Kristin,110.50728907646474,62.0,49553.0,Office
+Cockatoo_office_Laila,222.50213102848986,40.0,110380.0,Office
+Cockatoo_office_Lorraine,6.759551810602289,31.0,11524.0,Office
+Cockatoo_office_Margaret,3.241614906832298,24.0,92271.0,Office
+Cockatoo_office_Paige,109.06809356659842,92.0,130794.0,Office
+Cockatoo_office_Pansy,54.5396425344421,78.0,87977.0,Office
+Cockatoo_office_Rodney,131.3717171226503,63.0,46981.0,Office
+Cockatoo_public_Caleb,181.7870277094972,72.0,136817.0,Public services
+Cockatoo_public_Chiquita,88.26020954449547,32.0,99541.0,Public services
+Cockatoo_public_Harland,50.67414994101943,69.0,50577.0,Public services
+Cockatoo_public_Leah,167.6152929457749,65.0,240026.0,Public services
+Cockatoo_public_Shad,129.7741606094458,25.0,111360.0,Public services
+Cockatoo_public_Valerie,441.57271904584655,60.0,243072.0,Public services
+Cockatoo_science_Rex,185.18961706893344,113.0,60100.0,Technology/science
+Cockatoo_utility_Kimiko,78.69808915139826,35.0,4071.0,Utility
+Cockatoo_utility_Sherri,56.46498501396214,85.0,74922.0,Utility
+Fox_assembly_Adrianne,233.1324145213768,50.0,230259.0,Entertainment/public assembly
+Fox_assembly_Audrey,13.059622028390628,86.0,11935.0,Entertainment/public assembly
+Fox_assembly_Boyce,347.1924451889732,36.0,167066.0,Entertainment/public assembly
+Fox_assembly_Bradley,156.24771453744492,67.0,809530.0,Entertainment/public assembly
+Fox_assembly_Carlos,112.06815335390242,12.0,72193.0,Entertainment/public assembly
+Fox_assembly_Cathy,57.626098484848484,36.0,144086.0,Entertainment/public assembly
+Fox_assembly_Cecelia,16.736885404789053,107.0,17132.0,Entertainment/public assembly
+Fox_assembly_Christie,20.900493749643246,20.0,10733.0,Entertainment/public assembly
+Fox_assembly_Dixie,73.03409254293376,17.0,105505.0,Entertainment/public assembly
+Fox_assembly_Emma,170.83958074268438,61.0,143093.0,Entertainment/public assembly
+Fox_assembly_Gary,91.64637363890314,44.0,24345.0,Entertainment/public assembly
+Fox_assembly_Johnnie,336.371138690306,36.0,254766.0,Entertainment/public assembly
+Fox_assembly_Lakeisha,17.662475473420034,20.0,9666.0,Entertainment/public assembly
+Fox_assembly_Leeanne,18.236949925858333,26.0,20804.0,Entertainment/public assembly
+Fox_assembly_Renna,375.9731121372784,49.0,179449.0,Entertainment/public assembly
+Fox_assembly_Terrell,49.38180189491817,51.0,51999.0,Entertainment/public assembly
+Fox_education_Andre,454.5828592601037,20.0,183460.0,Education
+Fox_education_Ashli,28.945501140250858,55.0,9309.0,Education
+Fox_education_Claire,60.93583912894767,65.0,87673.0,Education
+Fox_education_Claude,971.1235633955587,19.0,193294.0,Education
+Fox_education_Delma,92.43503655054255,57.0,98829.0,Education
+Fox_education_Dominique,184.29497176430323,66.0,96124.0,Education
+Fox_education_Eldon,195.19033639318093,61.0,49662.0,Education
+Fox_education_Elizabeth,476.5396834104428,70.0,272278.0,Education
+Fox_education_Elois,11.220228102189783,56.0,7481.0,Education
+Fox_education_Elvira,189.0583934482365,11.0,148829.0,Education
+Fox_education_Gayla,61.83848039215686,61.0,78268.0,Education
+Fox_education_Geoffrey,120.09778468381137,68.0,137040.0,Education
+Fox_education_Gloria,660.4872011179557,42.0,151637.0,Education
+Fox_education_Jaclyn,192.83681195801006,21.0,71248.0,Education
+Fox_education_Jacqueline,92.12040744021257,46.0,126985.0,Education
+Fox_education_Janina,126.87541309564621,74.0,91273.0,Education
+Fox_education_John,56.9802246995297,58.0,49384.0,Education
+Fox_education_Kim,57.513033413159995,55.0,62238.0,Education
+Fox_education_Leona,271.1793289623717,22.0,282946.0,Education
+Fox_education_Leota,216.12684534671533,33.0,132518.0,Education
+Fox_education_Lilly,186.92269246202352,34.0,131710.0,Education
+Fox_education_Long,147.09477366020525,61.0,137065.0,Education
+Fox_education_Louie,77.63158038768529,54.0,179167.0,Education
+Fox_education_Marcelina,4.125577077363897,118.0,4314.0,Education
+Fox_education_Marlana,177.9954153528636,60.0,64560.0,Education
+Fox_education_Maureen,292.2398721169217,17.0,244964.0,Education
+Fox_education_Melinda,407.60472120866586,32.0,204349.0,Education
+Fox_education_Melvin,60.93497219833764,43.0,24643.0,Education
+Fox_education_Nilda,135.8962026110256,36.0,111635.0,Education
+Fox_education_Ollie,107.93274883137613,55.0,72102.0,Education
+Fox_education_Otilia,931.3824152687437,13.0,327256.0,Education
+Fox_education_Ray,47.59754988028731,116.0,12761.0,Education
+Fox_education_Rudolph,23.591174172794116,55.0,25139.0,Education
+Fox_education_Stacia,76.93156902318071,86.0,33739.0,Education
+Fox_education_Sterling,22.35462538487855,75.0,44203.0,Education
+Fox_education_Suzan,40.838203568764705,111.0,49078.0,Education
+Fox_education_Theodore,270.32488710229217,54.0,122592.0,Education
+Fox_education_Virgil,89.59529220594105,61.0,65907.0,Education
+Fox_education_Wendell,531.9753156184067,33.0,219608.0,Education
+Fox_education_Yolande,522.5005392771634,19.0,179559.0,Education
+Fox_food_Francesco,60.72024117680598,13.0,24867.0,Food sales and service
+Fox_health_Lorena,41.97347749085923,91.0,36904.0,Healthcare
+Fox_lodging_Alana,201.78459350057014,19.0,74682.0,Lodging/residential
+Fox_lodging_Angla,117.93965820256776,58.0,216526.0,Lodging/residential
+Fox_lodging_Frances,99.107022648183,61.0,111304.0,Lodging/residential
+Fox_lodging_Helen,354.0070529555949,16.0,553210.0,Lodging/residential
+Fox_lodging_Isabell,27.69518700114025,74.0,30949.0,Lodging/residential
+Fox_lodging_Jina,141.91429206819868,62.0,106440.0,Lodging/residential
+Fox_lodging_Morris,23.453251169690745,90.0,32841.0,Lodging/residential
+Fox_lodging_Stephan,30.46006334170281,85.0,36406.0,Lodging/residential
+Fox_lodging_Stephen,82.21464625733995,69.0,86323.0,Lodging/residential
+Fox_lodging_Wallace,350.69315450399085,18.0,63348.0,Lodging/residential
+Fox_lodging_Warren,36.2424107448386,74.0,49108.0,Lodging/residential
+Fox_lodging_Winifred,84.07878050171038,24.0,60086.0,Lodging/residential
+Fox_office_Alice,360.738779931585,58.0,202435.0,Office
+Fox_office_Brandy,32.174773012432986,40.0,42214.0,Office
+Fox_office_Carson,51.70108608893957,95.0,74180.0,Office
+Fox_office_Edythe,113.33007011743246,52.0,83660.0,Office
+Fox_office_Essie,34.66553837375179,57.0,131797.0,Office
+Fox_office_Israel,121.31287970353479,42.0,121440.0,Office
+Fox_office_Joy,182.00484231536927,11.0,70837.0,Office
+Fox_office_Karima,70.93463459126669,59.0,51732.0,Office
+Fox_office_Margarita,19.150467445742905,84.0,23549.0,Office
+Fox_office_Molly,7.2076898499457975,26.0,6203.0,Office
+Fox_office_Rowena,36.893463843387934,69.0,33713.0,Office
+Fox_office_Sheila,9.318882996920973,85.0,9703.0,Office
+Fox_office_Thelma,124.38720955421276,37.0,118966.0,Office
+Fox_office_Vicki,146.81316260765414,11.0,70832.0,Office
+Fox_office_Yong,135.2295414623018,21.0,163959.0,Office
+Fox_parking_Felipa,61.71628837687955,21.0,557217.0,Parking
+Fox_parking_Lynelle,13.041327746422667,38.0,157113.0,Parking
+Fox_parking_Tommie,87.36138766896708,21.0,405083.0,Parking
+Fox_public_Bart,132.06106670467503,43.0,101262.0,Public services
+Fox_public_Denny,142.674846895136,18.0,43681.0,Public services
+Fox_public_Martin,183.83454913591513,59.0,345837.0,Public services
+Fox_religion_Maurice,1.835976543509966,77.0,1629.0,Religious worship
+Fox_retail_Manie,64.65268313555454,43.0,45224.0,Retail
+Fox_warehouse_Lorretta,17.876947587849912,50.0,3877.0,Warehouse/storage
+Fox_warehouse_Pearl,32.91734452914542,46.0,12908.0,Warehouse/storage
+Lamb_assembly_Alden,1.2398549564519827,49.0,8730.0,Entertainment/public assembly
+Lamb_assembly_Bertie,73.85997707406139,49.0,149704.0,Entertainment/public assembly
+Lamb_assembly_Cesar,10.189040404617671,49.0,15306.0,Entertainment/public assembly
+Lamb_assembly_Cherie,55.084921882124945,49.0,47275.0,Entertainment/public assembly
+Lamb_assembly_Corliss,9.019070768087781,49.0,31075.0,Entertainment/public assembly
+Lamb_assembly_Delilah,6.455026100125729,49.0,31075.0,Entertainment/public assembly
+Lamb_assembly_Dillon,22.20730934329039,49.0,57189.0,Entertainment/public assembly
+Lamb_assembly_Dorathy,2.159110863095238,59.0,8773.0,Entertainment/public assembly
+Lamb_assembly_Dudley,22.090623232121455,49.0,27857.0,Entertainment/public assembly
+Lamb_assembly_Elinor,22.401068462152303,49.0,49492.0,Entertainment/public assembly
+Lamb_assembly_Ethel,36.24694160325796,49.0,41484.0,Entertainment/public assembly
+Lamb_assembly_Eugenia,6.430371869804882,49.0,12777.0,Entertainment/public assembly
+Lamb_assembly_Isa,1.7799778446201444,49.0,7427.0,Entertainment/public assembly
+Lamb_assembly_Jerry,2.2868067993693337,106.0,11162.0,Entertainment/public assembly
+Lamb_assembly_Katelyn,28.10528883378933,106.0,48642.0,Entertainment/public assembly
+Lamb_assembly_Kurt,1.5581114194097245,80.0,7352.0,Entertainment/public assembly
+Lamb_assembly_Librada,31.27599811331509,49.0,31829.0,Entertainment/public assembly
+Lamb_assembly_Louis,16.401101237696704,49.0,36307.0,Entertainment/public assembly
+Lamb_assembly_Nicole,1.7039575948937324,80.0,6910.0,Entertainment/public assembly
+Lamb_assembly_Ossie,3.687272970964792,49.0,12045.0,Entertainment/public assembly
+Lamb_assembly_Queen,1.2278761735357917,49.0,5619.0,Entertainment/public assembly
+Lamb_assembly_Rosa,110.9747722013224,49.0,12185.0,Entertainment/public assembly
+Lamb_assembly_Steven,3.581592169396724,49.0,5447.0,Entertainment/public assembly
+Lamb_assembly_Tasha,9.13039445237144,49.0,4768.0,Entertainment/public assembly
+Lamb_assembly_Tawana,4.34171685516235,80.0,9494.0,Entertainment/public assembly
+Lamb_assembly_Theresa,2.8679824169809027,49.0,10656.0,Entertainment/public assembly
+Lamb_assembly_Walter,2.7795651689247127,59.0,15715.0,Entertainment/public assembly
+Lamb_assembly_Zita,0.4232097936341378,59.0,6910.0,Entertainment/public assembly
+Lamb_education_Aldo,1.851440915266357,59.0,7922.0,Education
+Lamb_education_Alina,5.678241795481569,49.0,20204.0,Education
+Lamb_education_Antonio,38.85883050373666,80.0,102429.0,Education
+Lamb_education_Armando,40.68228753419972,80.0,120566.0,Education
+Lamb_education_Augustine,5.478751840210309,59.0,31635.0,Education
+Lamb_education_Bert,6.298925430221952,106.0,25866.0,Education
+Lamb_education_Bettye,8.772205624856946,106.0,28976.0,Education
+Lamb_education_Camille,37.78167629076087,59.0,68695.0,Education
+Lamb_education_Carlton,12.089198812568506,59.0,35768.0,Education
+Lamb_education_Chet,2.3654795730965703,80.0,11603.0,Education
+Lamb_education_Daniel,7.830476816985235,49.0,15414.0,Education
+Lamb_education_Darrel,41.64778109989161,59.0,128682.0,Education
+Lamb_education_Debby,8.878449045360574,106.0,31872.0,Education
+Lamb_education_Dolly,4.692188318411596,59.0,23185.0,Education
+Lamb_education_Domitila,56.04436981745579,49.0,139113.0,Education
+Lamb_education_Dwayne,6.068376363012916,49.0,14973.0,Education
+Lamb_education_Ellen,5.150657740484008,106.0,22184.0,Education
+Lamb_education_Emery,39.2307293513606,59.0,109071.0,Education
+Lamb_education_Emilie,4.910567147728657,59.0,14025.0,Education
+Lamb_education_Eula,1.5993828773369811,106.0,31506.0,Education
+Lamb_education_Faith,8.0859769291578,106.0,17190.0,Education
+Lamb_education_Felicia,4.601902770842215,59.0,23487.0,Education
+Lamb_education_Felipe,28.183649569727688,59.0,96929.0,Education
+Lamb_education_Fred,8.80856629978717,106.0,29149.0,Education
+Lamb_education_Freddy,2.713020597168892,49.0,12970.0,Education
+Lamb_education_Gabriel,7.084115596959479,49.0,23605.0,Education
+Lamb_education_Gabrielle,4.716537055403556,106.0,27685.0,Education
+Lamb_education_Garry,6.869864138758715,49.0,33982.0,Education
+Lamb_education_Harold,4.313372296367228,59.0,12788.0,Education
+Lamb_education_Heidi,7.580476033611399,49.0,23293.0,Education
+Lamb_education_Hellen,3.544874708100219,106.0,12088.0,Education
+Lamb_education_Hilary,3.860504783677202,106.0,13789.0,Education
+Lamb_education_Hillary,4.730647832817337,49.0,24090.0,Education
+Lamb_education_Hubert,7.243375312803519,49.0,11270.0,Education
+Lamb_education_Hui,10.85379451271792,106.0,37265.0,Education
+Lamb_education_Ira,3.0424867816845973,49.0,11281.0,Education
+Lamb_education_Isabelle,11.96455377757458,59.0,24251.0,Education
+Lamb_education_Jane,9.881594397759105,59.0,29891.0,Education
+Lamb_education_Junior,44.358095637277295,59.0,121471.0,Education
+Lamb_education_Kasha,5.726785744693791,59.0,25134.0,Education
+Lamb_education_Kayla,8.078276319795409,106.0,26027.0,Education
+Lamb_education_Larissa,6.607283540818083,49.0,27502.0,Education
+Lamb_education_Lawrence,7.274466113297963,49.0,23067.0,Education
+Lamb_education_Lazaro,19.707732455540356,59.0,95433.0,Education
+Lamb_education_Lemuel,8.415518065183022,59.0,17104.0,Education
+Lamb_education_Leopoldo,6.806922176341997,49.0,42883.0,Education
+Lamb_education_Logan,3.6533355103637075,49.0,23164.0,Education
+Lamb_education_Lucas,4.552690315777474,106.0,18697.0,Education
+Lamb_education_Luz,76.62487535082715,12.0,155807.0,Education
+Lamb_education_Mae,51.45902160282717,49.0,121062.0,Education
+Lamb_education_Manuel,8.840769167904904,49.0,30613.0,Education
+Lamb_education_Marc,10.474367018396391,49.0,8730.0,Education
+Lamb_education_Maritza,6.143780705381575,59.0,30300.0,Education
+Lamb_education_Marty,4.859514106697488,49.0,12927.0,Education
+Lamb_education_Maxwell,5.484230786375586,106.0,28363.0,Education
+Lamb_education_Mckenzie,38.27721923098865,59.0,126045.0,Education
+Lamb_education_Moses,6.925694052903618,49.0,13939.0,Education
+Lamb_education_Nathan,4.311554131955002,49.0,31614.0,Education
+Lamb_education_Nichol,1.5362812711411786,80.0,47071.0,Education
+Lamb_education_Norris,9.751252246781638,59.0,34563.0,Education
+Lamb_education_Patsy,5.443118156360727,106.0,32195.0,Education
+Lamb_education_Phil,3.324856051575234,49.0,10915.0,Education
+Lamb_education_Philomena,37.958357067016784,59.0,137046.0,Education
+Lamb_education_Princess,6.621097790497997,49.0,19041.0,Education
+Lamb_education_Randal,8.697919306780175,49.0,28826.0,Education
+Lamb_education_Renae,14.12290008841733,59.0,75272.0,Education
+Lamb_education_Rick,5.757203417533432,59.0,17050.0,Education
+Lamb_education_Robin,38.24790083865815,49.0,94658.0,Education
+Lamb_education_Rodrigo,34.466891631011464,49.0,66187.0,Education
+Lamb_education_Ruben,5.584505326523167,49.0,16985.0,Education
+Lamb_education_Sabrina,3.467126150461407,49.0,11464.0,Education
+Lamb_education_Salvador,6.897535030140657,59.0,27663.0,Education
+Lamb_education_Sara,31.378362990196077,80.0,93764.0,Education
+Lamb_education_Stefan,7.208689438793005,49.0,23153.0,Education
+Lamb_education_Sunny,6.387795551866271,106.0,18202.0,Education
+Lamb_education_Sylvester,3.185822817158503,49.0,22949.0,Education
+Lamb_education_Terina,83.26449158627776,59.0,160038.0,Education
+Lamb_education_Traci,2.64877744170553,49.0,14790.0,Education
+Lamb_education_Vaughn,6.266522060966723,106.0,28191.0,Education
+Lamb_education_Wanda,3.5558293255488658,49.0,11690.0,Education
+Lamb_education_Wilbert,7.576467633467105,80.0,23842.0,Education
+Lamb_education_Willetta,0.019731988144094846,49.0,37975.0,Education
+Lamb_education_Williams,26.369070414741287,49.0,88856.0,Education
+Lamb_food_Sylvia,10.692283847461743,106.0,35306.0,Food sales and service
+Lamb_health_Ken,16.415813360693114,59.0,18471.0,Healthcare
+Lamb_industrial_Carla,127.83204757181943,49.0,90697.0,Manufacturing/industrial
+Lamb_industrial_Enrique,51.80464081737346,49.0,3853.0,Manufacturing/industrial
+Lamb_industrial_Venessa,6.339542476712955,106.0,6329.0,Manufacturing/industrial
+Lamb_industrial_Willard,1.9720321919474517,49.0,10387.0,Manufacturing/industrial
+Lamb_lodging_Burt,2.0567843687489287,49.0,7589.0,Lodging/residential
+Lamb_lodging_Harley,3.2785560561838745,106.0,17082.0,Lodging/residential
+Lamb_office_Bertha,49.2724273369813,49.0,57436.0,Office
+Lamb_office_Caitlin,24.744957763337894,49.0,36221.0,Office
+Lamb_office_Callie,3.3846838905080294,49.0,7416.0,Office
+Lamb_office_Corine,0.37815322850451655,106.0,5393.0,Office
+Lamb_office_Donita,0.3449241771687263,49.0,10463.0,Office
+Lamb_office_Gerardo,8.738954743399244,59.0,52302.0,Office
+Lamb_office_Jo,1.156229042788854,49.0,16598.0,Office
+Lamb_office_Joanna,1.4585810960067969,59.0,11873.0,Office
+Lamb_office_Kent,0.4304574883568919,106.0,12917.0,Office
+Lamb_office_Kerry,2.073989751196172,49.0,42647.0,Office
+Lamb_office_Maggie,2.5172380510440835,49.0,12206.0,Office
+Lamb_office_Peggy,1.8313752787035973,49.0,4650.0,Office
+Lamb_office_Raymond,6.965562927191679,80.0,19429.0,Office
+Lamb_office_Stefani,10.523024393453879,49.0,11442.0,Office
+Lamb_office_Vasiliki,303.4563625907091,49.0,270034.0,Office
+Lamb_office_Velma,91.12367821799111,106.0,152471.0,Office
+Lamb_office_William,1.55753101957636,106.0,7879.0,Office
+Lamb_other_Katharina,9.297887947193965,49.0,5769.0,Other
+Lamb_other_Minerva,8.957170361798028,49.0,5619.0,Other
+Lamb_public_Angeline,21.42501483042208,106.0,41861.0,Public services
+Lamb_public_Bradly,11.89743803406326,49.0,20365.0,Public services
+Lamb_public_Grace,38.48052310852448,49.0,60977.0,Public services
+Lamb_public_Gracie,2.988271973902593,49.0,9849.0,Public services
+Lamb_public_Nyla,3.7157093413610656,106.0,7072.0,Public services
+Lamb_public_Vania,17.583033147167203,49.0,43400.0,Public services
+Lamb_warehouse_Allan,13.593134553956398,59.0,15683.0,Warehouse/storage
+Moose_education_Abbie,1248.9623432038836,73.0,484376.0,Education
+Moose_education_Clark,845.2690896008224,46.0,764237.0,Education
+Moose_education_Diane,1491.6386252320244,63.0,182986.0,Education
+Moose_education_Florence,323.758142270735,30.0,290625.0,Education
+Moose_education_Gladys,1118.3069412421933,56.0,731945.0,Education
+Moose_education_Leland,1336.3302479925594,49.0,527431.0,Education
+Moose_education_Lori,200.55013371340172,61.0,150695.0,Education
+Moose_education_Maria,758.6893879267803,65.0,387500.0,Education
+Moose_education_Marina,40.45182340243276,70.0,64583.0,Education
+Moose_education_Marlon,185.01114452629776,60.0,226042.0,Education
+Moose_education_Rene,482.06084416652385,55.0,409028.0,Education
+Moose_education_Sasha,2.45191269804822,114.0,86111.0,Education
+Mouse_health_Estela,384.6842182991313,89.0,185064.0,Healthcare
+Mouse_health_Ileana,43.587323672327166,71.0,58114.0,Healthcare
+Mouse_health_Justin,783.3503425177997,13.0,190898.0,Healthcare
+Mouse_health_Modesto,532.6797830678169,31.0,193675.0,Healthcare
+Mouse_lodging_Vicente,45.76756137336354,19.0,37555.0,Lodging/residential
+Mouse_science_Micheal,435.8449636376172,29.0,63841.0,Technology/science
+Panther_assembly_Carrol,27.22013571630404,19.0,6412.0,Entertainment/public assembly
+Panther_assembly_David,72.15652591494286,24.0,26944.0,Entertainment/public assembly
+Panther_assembly_Denice,473.1801949985872,34.0,370773.0,Entertainment/public assembly
+Panther_assembly_Gwyneth,242.16866973935154,18.0,76527.0,Entertainment/public assembly
+Panther_assembly_Pamella,83.18984760390161,20.0,81337.0,Entertainment/public assembly
+Panther_education_Alecia,227.93024374426,24.0,105545.0,Education
+Panther_education_Annetta,107.90117943773397,25.0,99380.0,Education
+Panther_education_Aurora,124.39790769176439,12.0,86250.0,Education
+Panther_education_Cleopatra,26.52005539744848,9.0,21657.0,Education
+Panther_education_Diann,89.61714930403448,23.0,23685.0,Education
+Panther_education_Edna,129.13521419509445,55.0,106523.0,Education
+Panther_education_Emily,130.78337501231442,22.0,68094.0,Education
+Panther_education_Enriqueta,96.77347452903408,18.0,76257.0,Education
+Panther_education_Genevieve,263.0827483962264,40.0,130885.0,Education
+Panther_education_Gina,417.13794785276076,50.0,116607.0,Education
+Panther_education_Hugh,602.2942277903363,29.0,111891.0,Education
+Panther_education_Ivan,131.76854176616038,24.0,61904.0,Education
+Panther_education_Janis,26.613712175817962,39.0,10932.0,Education
+Panther_education_Jerome,485.6293628407967,16.0,128887.0,Education
+Panther_education_Jonathan,8.391153934911243,29.0,3569.0,Education
+Panther_education_Karri,385.56445373939306,29.0,54644.0,Education
+Panther_education_Mattie,6.687316167537787,34.0,5376.0,Education
+Panther_education_Misty,33.43364470497655,21.0,2720.0,Education
+Panther_education_Mohammad,148.05098151017822,48.0,110272.0,Education
+Panther_education_Neal,238.6687741046832,28.0,81576.0,Education
+Panther_education_Quintin,302.8941934091095,19.0,113866.0,Education
+Panther_education_Rosalie,64.97776123948837,17.0,7432.0,Education
+Panther_education_Scarlett,22.12270070917006,57.0,29469.0,Education
+Panther_education_Shelton,122.08070168138467,22.0,60809.0,Education
+Panther_education_Sophia,140.8894397020589,57.0,49073.0,Education
+Panther_education_Teofila,156.46622174343034,26.0,93897.0,Education
+Panther_education_Tina,7.525236375819991,25.0,8000.0,Education
+Panther_education_Vincent,151.788491104988,36.0,121074.0,Education
+Panther_education_Violet,149.49552185792348,14.0,7867.0,Education
+Panther_education_Zelda,82.65825967217748,15.0,80942.0,Education
+Panther_lodging_Alita,72.52395979090139,12.0,60088.0,Lodging/residential
+Panther_lodging_Anastasia,51.59244214467364,57.0,24456.0,Lodging/residential
+Panther_lodging_Awilda,89.70176225362064,26.0,59200.0,Lodging/residential
+Panther_lodging_Blaine,75.64040757329565,24.0,38686.0,Lodging/residential
+Panther_lodging_Cora,135.05456529979568,18.0,187647.0,Lodging/residential
+Panther_lodging_Cornelia,42.689104803616836,23.0,53130.0,Lodging/residential
+Panther_lodging_Dianna,51.790617605086545,57.0,24456.0,Lodging/residential
+Panther_lodging_Edison,103.7850268649336,12.0,65359.0,Lodging/residential
+Panther_lodging_Edmond,43.731216304040686,24.0,53130.0,Lodging/residential
+Panther_lodging_Else,44.131566186338915,44.0,37241.0,Lodging/residential
+Panther_lodging_Fausto,50.14147763650491,44.0,37241.0,Lodging/residential
+Panther_lodging_Floyd,157.70928955919752,24.0,42731.0,Lodging/residential
+Panther_lodging_Gale,104.0352065913105,26.0,59200.0,Lodging/residential
+Panther_lodging_Hattie,140.59348831590844,23.0,38686.0,Lodging/residential
+Panther_lodging_Jana,83.35569554990465,23.0,42731.0,Lodging/residential
+Panther_lodging_Janice,55.25159860826563,57.0,24456.0,Lodging/residential
+Panther_lodging_Jorge,66.81712670526761,24.0,41617.0,Lodging/residential
+Panther_lodging_Kaitlin,48.83229773947443,24.0,53130.0,Lodging/residential
+Panther_lodging_Kara,175.8044723581248,19.0,200933.0,Lodging/residential
+Panther_lodging_Kirk,150.66913113279358,19.0,200933.0,Lodging/residential
+Panther_lodging_Marisol,163.70365215794308,18.0,200933.0,Lodging/residential
+Panther_lodging_Myrtle,52.844061992228895,57.0,24456.0,Lodging/residential
+Panther_lodging_Russell,36.27709428551247,44.0,27926.0,Lodging/residential
+Panther_lodging_Sonja,113.3721966796185,12.0,83379.0,Lodging/residential
+Panther_lodging_Teresita,66.44371263775078,23.0,41617.0,Lodging/residential
+Panther_lodging_Tracie,56.785944200339074,23.0,53130.0,Lodging/residential
+Panther_lodging_Willa,70.42193998456464,26.0,37100.0,Lodging/residential
+Panther_office_Antonette,31.468504210823795,39.0,18860.0,Office
+Panther_office_Brent,13.856209997805895,51.0,10743.0,Office
+Panther_office_Catherine,44.27899203108442,20.0,26953.0,Office
+Panther_office_Christian,34.6198127031228,14.0,16726.0,Office
+Panther_office_Christin,18.206162282768776,42.0,15876.0,Office
+Panther_office_Clementine,47.31607939845436,43.0,33370.0,Office
+Panther_office_Danica,5.098396319581803,9.0,2260.0,Office
+Panther_office_Garth,63.34529886973721,9.0,52957.0,Office
+Panther_office_Graham,74.88916262756013,51.0,83957.0,Office
+Panther_office_Hannah,6.683937664264518,39.0,4038.0,Office
+Panther_office_Jeane,20.636361324952325,35.0,7043.0,Office
+Panther_office_Jesus,99.70399959734388,56.0,103286.0,Office
+Panther_office_Karla,35.36006700339079,15.0,27000.0,Office
+Panther_office_Kristen,51.906313421870586,57.0,93860.0,Office
+Panther_office_Larry,52.4146049950544,21.0,18717.0,Office
+Panther_office_Lauretta,172.92639529494878,15.0,36240.0,Office
+Panther_office_Lavinia,22.964660052274652,55.0,10779.0,Office
+Panther_office_Lois,147.10402768046333,12.0,12769.0,Office
+Panther_office_Otto,218.31012804836703,54.0,87742.0,Office
+Panther_office_Patti,473.47534115860117,24.0,156111.0,Office
+Panther_office_Ruthie,117.10840304443032,22.0,45330.0,Office
+Panther_office_Shauna,96.20213657623287,20.0,48392.0,Office
+Panther_office_Taryn,93.10076556693748,56.0,64619.0,Office
+Panther_office_Valarie,33.75578879547863,45.0,15250.0,Office
+Panther_other_Bethel,4.159487107029318,46.0,3025.0,Other
+Panther_other_Bettie,14.10296485340869,44.0,4698.0,Other
+Panther_other_Lucina,371.4163240417116,57.0,226506.0,Other
+Panther_other_Lula,1.2965521791339973,29.0,2070.0,Other
+Panther_other_Tyrone,26.496573628081077,36.0,9569.0,Other
+Panther_parking_Adela,45.926507410285396,23.0,387638.0,Parking
+Panther_parking_Alaina,37.277863996895064,28.0,387638.0,Parking
+Panther_parking_Asia,26.908497718282,11.0,387638.0,Parking
+Panther_parking_Charlene,42.50045275540484,18.0,487433.0,Parking
+Panther_parking_Jody,31.354450563486104,25.0,387638.0,Parking
+Panther_parking_Lorriane,10.722723400649626,17.0,387638.0,Parking
+Panther_parking_Mellissa,15.047913548341667,18.0,387638.0,Parking
+Panther_parking_Stanley,43.228516729123946,27.0,387638.0,Parking
+Panther_retail_Felix,119.53686939107092,17.0,31666.0,Retail
+Panther_retail_Gilbert,0.7910947783849424,9.0,15304.0,Retail
+Panther_retail_Kristina,32.063591454981655,45.0,59071.0,Retail
+Panther_retail_Lester,5.808891928768176,9.0,9045.0,Retail
+Panther_retail_Rachel,3.48410048039562,40.0,283.0,Retail
+Panther_retail_Romeo,433.59154678626925,29.0,161755.0,Retail
+Rat_assembly_Adolfo,34.980130737611326,20.0,15960.0,Entertainment/public assembly
+Rat_assembly_Aisha,81.52896043577982,56.0,23803.0,Entertainment/public assembly
+Rat_assembly_Damaris,4.905121657983626,96.0,16098.0,Entertainment/public assembly
+Rat_assembly_Francine,39.82384007331882,22.0,17262.0,Entertainment/public assembly
+Rat_assembly_Frieda,123.99387165101902,21.0,36744.0,Entertainment/public assembly
+Rat_assembly_Jannie,0.8282300732936326,125.0,194300.0,Entertainment/public assembly
+Rat_assembly_Mirta,168.75222463312969,99.0,86120.0,Entertainment/public assembly
+Rat_assembly_Teddy,85.3436941836501,48.0,22334.0,Entertainment/public assembly
+Rat_assembly_Trent,22.556157936871,25.0,3545.0,Entertainment/public assembly
+Rat_education_Abigail,121.28607223476298,49.0,95000.0,Education
+Rat_education_Adell,148.86776098742646,49.0,104294.0,Education
+Rat_education_Adrian,77.76560593900481,101.0,64113.0,Education
+Rat_education_Alfonso,334.0551377039794,100.0,85039.0,Education
+Rat_education_Alfred,360.1609674972282,90.0,207000.0,Education
+Rat_education_Alonzo,139.66211711711713,93.0,64750.0,Education
+Rat_education_Angelica,57.15700940860216,61.0,56000.0,Education
+Rat_education_Beverly,661.5091322690992,12.0,394000.0,Education
+Rat_education_Brett,65.32838128467655,85.0,109000.0,Education
+Rat_education_Bryant,55.8517934907174,76.0,69600.0,Education
+Rat_education_Calvin,37.193955202559856,10.0,57100.0,Education
+Rat_education_Candida,140.0861067916762,9.0,38500.0,Education
+Rat_education_Carmela,86.25429381118681,23.0,47984.0,Education
+Rat_education_Chance,58.039795081967206,61.0,60200.0,Education
+Rat_education_Cinthia,35.41686287569728,8.0,69300.0,Education
+Rat_education_Colin,54.63628119990841,83.0,83400.0,Education
+Rat_education_Conrad,171.27679157894738,11.0,356000.0,Education
+Rat_education_Dana,97.67509563231516,61.0,70800.0,Education
+Rat_education_Dann,195.01841527555456,55.0,182500.0,Education
+Rat_education_Deanna,88.3179127601189,56.0,66900.0,Education
+Rat_education_Debra,105.5178973918028,94.0,51500.0,Education
+Rat_education_Denise,84.06219048786467,54.0,65500.0,Education
+Rat_education_Dianne,139.72526850864966,66.0,73200.0,Education
+Rat_education_Donnell,59.669302224633746,101.0,79800.0,Education
+Rat_education_Earl,158.9786232008716,51.0,75900.0,Education
+Rat_education_Earnest,60.47465136249141,63.0,59900.0,Education
+Rat_education_Edmund,50.29124585818423,66.0,66600.0,Education
+Rat_education_Eleonora,226.50156460090454,21.0,115000.0,Education
+Rat_education_Elisa,39.47272950445307,102.0,43000.0,Education
+Rat_education_Elsie,117.58989418292056,14.0,376507.0,Education
+Rat_education_Esther,94.72758229804775,117.0,69600.0,Education
+Rat_education_Everett,177.4303945337069,122.0,86375.0,Education
+Rat_education_Fernando,62.38918074082556,115.0,58908.0,Education
+Rat_education_Guillermo,108.83802908841045,93.0,79700.0,Education
+Rat_education_Humberto,175.00296246648793,57.0,99975.0,Education
+Rat_education_Irma,74.4417057410796,66.0,72800.0,Education
+Rat_education_Jacob,55.63530341195329,11.0,57165.0,Education
+Rat_education_Jeanne,56.100689579923625,63.0,49500.0,Education
+Rat_education_Jena,163.394498511564,115.0,40950.0,Education
+Rat_education_Kathryn,518.9253166866199,19.0,325217.0,Education
+Rat_education_Keith,104.94822847682119,95.0,101400.0,Education
+Rat_education_Kelsey,157.8237474309203,98.0,99325.0,Education
+Rat_education_Kristie,130.63100576553492,21.0,62200.0,Education
+Rat_education_Lee,403.23247363320223,11.0,283000.0,Education
+Rat_education_Leonardo,48.793015826322296,90.0,47200.0,Education
+Rat_education_Lincoln,161.20621442070902,94.0,116872.0,Education
+Rat_education_Liz,91.22263091699062,114.0,69400.0,Education
+Rat_education_Lonnie,60.481981564181844,97.0,50000.0,Education
+Rat_education_Marianna,79.97960390355912,104.0,63900.0,Education
+Rat_education_Maricela,144.04047761544328,47.0,69600.0,Education
+Rat_education_Marvin,53.78601021403569,125.0,59400.0,Education
+Rat_education_Mavis,204.05943564115066,66.0,158000.0,Education
+Rat_education_Meghan,53.618639451898375,114.0,49100.0,Education
+Rat_education_Milagros,110.3424255020198,70.0,99700.0,Education
+Rat_education_Moises,160.21769814334198,75.0,83900.0,Education
+Rat_education_Mona,78.02931054196203,113.0,53000.0,Education
+Rat_education_Morton,150.53018294077293,94.0,155100.0,Education
+Rat_education_Nellie,435.2471076079507,97.0,282200.0,Education
+Rat_education_Nona,98.38269078834374,85.0,271300.0,Education
+Rat_education_Nydia,152.27767036632355,81.0,83800.0,Education
+Rat_education_Patty,137.14832961245634,69.0,170000.0,Education
+Rat_education_Paula,124.07289716393821,83.0,77500.0,Education
+Rat_education_Penny,166.85358389683913,18.0,75500.0,Education
+Rat_education_Renee,34.26183112279899,117.0,37083.0,Education
+Rat_education_Robyn,155.17150719342317,64.0,98900.0,Education
+Rat_education_Rogelio,126.23122160728698,11.0,62800.0,Education
+Rat_education_Romana,37.2346487104561,96.0,47400.0,Education
+Rat_education_Roxanne,415.84560239117104,48.0,162700.0,Education
+Rat_education_Salvatore,78.40169563228905,10.0,48994.0,Education
+Rat_education_Sherwood,102.61333925705114,98.0,95100.0,Education
+Rat_education_Sina,167.88364595276312,116.0,88300.0,Education
+Rat_education_Stuart,47.54103961529654,109.0,82200.0,Education
+Rat_education_Tania,311.3102763036456,12.0,235000.0,Education
+Rat_education_Terese,116.13254992846925,86.0,180000.0,Education
+Rat_education_Theo,555.969565589191,102.0,288800.0,Education
+Rat_education_Tim,62.24649034616703,57.0,47500.0,Education
+Rat_education_Tristan,29.236266538830296,118.0,110100.0,Education
+Rat_education_Ulrike,103.92127486851132,93.0,46484.0,Education
+Rat_education_Verna,83.11705406800068,55.0,66600.0,Education
+Rat_education_Veronica,184.1168776041667,10.0,154000.0,Education
+Rat_education_Willie,238.9079705747653,16.0,104200.0,Education
+Rat_education_Willy,89.2063518215309,79.0,87600.0,Education
+Rat_education_Wilmer,102.32852155468929,75.0,66200.0,Education
+Rat_education_Winnie,55.29869517920531,66.0,59200.0,Education
+Rat_education_Yu,80.97514956254433,94.0,21903.0,Education
+Rat_education_Zina,49.121130309988516,65.0,57100.0,Education
+Rat_education_Zoe,93.63981134232793,66.0,69400.0,Education
+Rat_health_Ann,92.57793219841503,67.0,80500.0,Healthcare
+Rat_health_Guy,1465.3746170678337,103.0,819577.0,Healthcare
+Rat_health_Mildred,17.99408256618446,15.0,9813.0,Healthcare
+Rat_health_Rosaria,31.019803887935964,15.0,15000.0,Healthcare
+Rat_health_Shane,1146.168417162326,13.0,450000.0,Healthcare
+Rat_health_Tanya,51.39887588490523,11.0,29192.0,Healthcare
+Rat_lodging_Ben,328.51833765784465,76.0,350000.0,Lodging/residential
+Rat_lodging_Christine,62.181650468785726,90.0,31283.0,Lodging/residential
+Rat_lodging_Jeannette,5.182877697841726,15.0,5000.0,Lodging/residential
+Rat_lodging_Marguerite,22.58435350281836,125.0,18340.0,Lodging/residential
+Rat_office_Adele,599.7146263202968,15.0,408000.0,Office
+Rat_office_Avis,914.0166373690338,39.0,474680.0,Office
+Rat_office_Chris,894.0551361272561,83.0,585955.0,Office
+Rat_office_Colby,2128.527409350057,36.0,850354.0,Office
+Rat_office_Jessica,701.0325791358595,121.0,328760.0,Office
+Rat_office_Jill,647.851901808486,15.0,340000.0,Office
+Rat_office_Lora,427.7759368577301,15.0,229000.0,Office
+Rat_office_Loyd,55.36507079241836,23.0,29916.0,Office
+Rat_public_Alanna,1165.342615731376,49.0,461647.0,Public services
+Rat_public_Angle,336.52397093102974,21.0,81397.0,Public services
+Rat_public_Berry,97.53406071346902,47.0,43955.0,Public services
+Rat_public_Bronwyn,444.89481369528573,84.0,555243.0,Public services
+Rat_public_Carole,18.80790601719198,62.0,9941.0,Public services
+Rat_public_Corinne,25.419167619483193,41.0,24875.0,Public services
+Rat_public_Dalia,186.1690613366932,14.0,90635.0,Public services
+Rat_public_Damon,20.763824541284404,60.0,13224.0,Public services
+Rat_public_Faye,31.197325154781016,52.0,18432.0,Public services
+Rat_public_Fern,48.69511267362112,47.0,35241.0,Public services
+Rat_public_Fredrick,13.285871310507675,65.0,12945.0,Public services
+Rat_public_Helena,24.120835242896426,57.0,12754.0,Public services
+Rat_public_Isabel,53.40183569631832,93.0,16576.0,Public services
+Rat_public_Josiah,87.95384690144066,75.0,46007.0,Public services
+Rat_public_Kelle,25.226249350949058,89.0,20110.0,Public services
+Rat_public_Kelly,21.0656388650043,56.0,10577.0,Public services
+Rat_public_Laverne,12.758578369726765,95.0,11934.0,Public services
+Rat_public_Lea,68.0831136999773,53.0,110800.0,Public services
+Rat_public_Leo,18.11085870993544,96.0,13100.0,Public services
+Rat_public_Leta,17.020901564462715,59.0,10151.0,Public services
+Rat_public_Lloyd,71.74574593542478,19.0,54061.0,Public services
+Rat_public_Michelle,68.87627716769619,63.0,35033.0,Public services
+Rat_public_Nancy,18.918858533791525,113.0,8925.0,Public services
+Rat_public_Nelson,44.52671399129837,11.0,16000.0,Public services
+Rat_public_Norene,27.337894209577236,112.0,13044.0,Public services
+Rat_public_Ramona,26.87214065180103,117.0,14519.0,Public services
+Rat_public_Roma,53.29511034877073,14.0,21472.0,Public services
+Rat_public_Sana,1091.6361439077718,54.0,400000.0,Public services
+Rat_public_Toya,26.671981630309986,45.0,16768.0,Public services
+Rat_public_Yessenia,113.69111536702492,18.0,22000.0,Public services
+Rat_public_Yetta,18.199088373272474,71.0,21318.0,Public services
+Rat_religion_Kathy,5.158069422999943,15.0,10000.0,Religious worship
+Rat_warehouse_Breanna,91.04812113579116,50.0,51622.0,Warehouse/storage
+Rat_warehouse_Eloisa,90.99361212605618,42.0,202829.0,Warehouse/storage
+Rat_warehouse_Maegan,6.922520071899341,20.0,14839.0,Warehouse/storage
+Robin_assembly_Colleen,47.350963953488375,58.0,64024.0,Entertainment/public assembly
+Robin_education_Audrea,286.843880124259,19.0,27814.0,Education
+Robin_education_Billi,37.919750307797536,125.0,38319.0,Education
+Robin_education_Cecilia,52.30192554149567,21.0,15489.0,Education
+Robin_education_Derick,528.6653270747834,119.0,150318.0,Education
+Robin_education_Derrick,403.12179985180114,116.0,118338.0,Education
+Robin_education_Julius,345.7457023540812,65.0,138316.0,Education
+Robin_education_Kristopher,124.47468666780667,36.0,61204.0,Education
+Robin_education_Lashandra,167.11157385430917,20.0,97532.0,Education
+Robin_education_Leslie,886.1533666666667,67.0,139683.0,Education
+Robin_education_Lizbeth,121.591894750342,21.0,21539.0,Education
+Robin_education_Madeline,361.61170426926583,67.0,100481.0,Education
+Robin_education_Margarito,528.5337779411765,18.0,91149.0,Education
+Robin_education_Megan,250.5851694653443,112.0,81580.0,Education
+Robin_education_Mercedes,255.11012101003195,72.0,56995.0,Education
+Robin_education_So,491.2702740538075,57.0,129716.0,Education
+Robin_education_Takako,159.66869597013223,30.0,16802.0,Education
+Robin_education_Terrance,263.88506616507067,34.0,83043.0,Education
+Robin_education_Zenia,200.96859951550388,49.0,68211.0,Education
+Robin_lodging_Armand,38.25760122549019,65.0,56467.0,Lodging/residential
+Robin_lodging_Celia,51.24684803351573,30.0,83108.0,Lodging/residential
+Robin_lodging_Dorthy,31.057227496580026,65.0,62893.0,Lodging/residential
+Robin_lodging_Elmer,93.68329908230734,57.0,102957.0,Lodging/residential
+Robin_lodging_Janie,118.7833542122663,95.0,66661.0,Lodging/residential
+Robin_lodging_Oliva,54.80995225148199,65.0,64723.0,Lodging/residential
+Robin_lodging_Phillip,38.75510156196361,58.0,66532.0,Lodging/residential
+Robin_lodging_Pricilla,62.70998735035914,27.0,49589.0,Lodging/residential
+Robin_lodging_Renea,89.87541041381668,69.0,102774.0,Lodging/residential
+Robin_office_Addie,20.53844623233014,60.0,16092.0,Office
+Robin_office_Antonina,416.17895584245326,70.0,65657.0,Office
+Robin_office_Donald,151.44167067643355,48.0,82548.0,Office
+Robin_office_Erma,16.054635691318328,97.0,47727.0,Office
+Robin_office_Gayle,59.11175215458276,106.0,44789.0,Office
+Robin_office_Maryann,231.2098553123575,118.0,34455.0,Office
+Robin_office_Sammie,82.35071574327405,95.0,51688.0,Office
+Robin_office_Saul,17.586049446978336,69.0,31614.0,Office
+Robin_office_Serena,51.62377484040128,28.0,30495.0,Office
+Robin_office_Soledad,13.234563709447517,55.0,10301.0,Office
+Robin_office_Wai,166.69310816,65.0,174601.0,Office
+Robin_office_Zelma,109.95793881098952,65.0,81881.0,Office
+Robin_public_Cami,70.43631644436844,125.0,56629.0,Public services
+Shrew_office_Doug,75.583798524222,119.0,60601.0,Office
+Shrew_office_Katherine,55.866196581196576,123.0,36705.0,Office
+Shrew_office_Kenneth,28.577072649572653,88.0,18503.0,Office
+Shrew_office_Lin,375.8714666382435,110.0,150641.0,Office
+Shrew_office_Nora,178.7024190110827,119.0,109824.0,Office
+Shrew_office_Sherill,306.19062233589085,25.0,194805.0,Office

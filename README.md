@@ -1,0 +1,3 @@
+Modeling Building Electricity Usage & Energy Intensity
+
+This project investigates electricity consumption and energy intensity across multiple buildings by combining building metadata (age, square footage, primary usage category) with annual electricity usage records. The goal is to explore trends over time, examine the relationship between building characteristics and electricity usage, and evaluate whether basic machine-learning models can help identify key factors that influence energy intensity. This analysis supports a broader understanding of building sustainability and energy management patterns.
